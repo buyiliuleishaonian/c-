@@ -1,0 +1,11 @@
+E:\C#\directory类\字体和颜色对话框\bin\Debug\字体和颜色对话框.exe.config
+E:\C#\directory类\字体和颜色对话框\bin\Debug\字体和颜色对话框.exe
+E:\C#\directory类\字体和颜色对话框\bin\Debug\字体和颜色对话框.pdb
+E:\C#\directory类\字体和颜色对话框\obj\Debug\字体和颜色对话框.csproj.AssemblyReference.cache
+E:\C#\directory类\字体和颜色对话框\obj\Debug\字体和颜色对话框.csproj.SuggestedBindingRedirects.cache
+E:\C#\directory类\字体和颜色对话框\obj\Debug\字体和颜色对话框.Form1.resources
+E:\C#\directory类\字体和颜色对话框\obj\Debug\字体和颜色对话框.Properties.Resources.resources
+E:\C#\directory类\字体和颜色对话框\obj\Debug\字体和颜色对话框.csproj.GenerateResource.cache
+E:\C#\directory类\字体和颜色对话框\obj\Debug\字体和颜色对话框.csproj.CoreCompileInputs.cache
+E:\C#\directory类\字体和颜色对话框\obj\Debug\字体和颜色对话框.exe
+E:\C#\directory类\字体和颜色对话框\obj\Debug\字体和颜色对话框.pdb

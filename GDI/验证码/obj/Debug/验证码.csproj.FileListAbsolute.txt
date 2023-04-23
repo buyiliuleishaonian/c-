@@ -1,0 +1,11 @@
+E:\C#\GDI\验证码\obj\Debug\验证码.csproj.AssemblyReference.cache
+E:\C#\GDI\验证码\obj\Debug\验证码.csproj.SuggestedBindingRedirects.cache
+E:\C#\GDI\验证码\obj\Debug\验证码.Form1.resources
+E:\C#\GDI\验证码\obj\Debug\验证码.Properties.Resources.resources
+E:\C#\GDI\验证码\obj\Debug\验证码.csproj.GenerateResource.cache
+E:\C#\GDI\验证码\obj\Debug\验证码.csproj.CoreCompileInputs.cache
+E:\C#\GDI\验证码\bin\Debug\验证码.exe.config
+E:\C#\GDI\验证码\bin\Debug\验证码.exe
+E:\C#\GDI\验证码\bin\Debug\验证码.pdb
+E:\C#\GDI\验证码\obj\Debug\验证码.exe
+E:\C#\GDI\验证码\obj\Debug\验证码.pdb

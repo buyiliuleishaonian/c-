@@ -1,0 +1,11 @@
+E:\C#\winform窗体\跑马灯\bin\Debug\跑马灯.exe.config
+E:\C#\winform窗体\跑马灯\bin\Debug\跑马灯.exe
+E:\C#\winform窗体\跑马灯\bin\Debug\跑马灯.pdb
+E:\C#\winform窗体\跑马灯\obj\Debug\跑马灯.csproj.AssemblyReference.cache
+E:\C#\winform窗体\跑马灯\obj\Debug\跑马灯.csproj.SuggestedBindingRedirects.cache
+E:\C#\winform窗体\跑马灯\obj\Debug\跑马灯.Form1.resources
+E:\C#\winform窗体\跑马灯\obj\Debug\跑马灯.Properties.Resources.resources
+E:\C#\winform窗体\跑马灯\obj\Debug\跑马灯.csproj.GenerateResource.cache
+E:\C#\winform窗体\跑马灯\obj\Debug\跑马灯.csproj.CoreCompileInputs.cache
+E:\C#\winform窗体\跑马灯\obj\Debug\跑马灯.exe
+E:\C#\winform窗体\跑马灯\obj\Debug\跑马灯.pdb

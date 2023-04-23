@@ -1,0 +1,8 @@
+E:\C#\c#基础总体复习\U盘移动硬盘\obj\Debug\U盘移动硬盘.csproj.AssemblyReference.cache
+E:\C#\c#基础总体复习\U盘移动硬盘\obj\Debug\U盘移动硬盘.csproj.SuggestedBindingRedirects.cache
+E:\C#\c#基础总体复习\U盘移动硬盘\obj\Debug\U盘移动硬盘.csproj.CoreCompileInputs.cache
+E:\C#\c#基础总体复习\U盘移动硬盘\bin\Debug\U盘移动硬盘.exe.config
+E:\C#\c#基础总体复习\U盘移动硬盘\bin\Debug\U盘移动硬盘.exe
+E:\C#\c#基础总体复习\U盘移动硬盘\bin\Debug\U盘移动硬盘.pdb
+E:\C#\c#基础总体复习\U盘移动硬盘\obj\Debug\U盘移动硬盘.exe
+E:\C#\c#基础总体复习\U盘移动硬盘\obj\Debug\U盘移动硬盘.pdb

@@ -1,0 +1,11 @@
+E:\C#\directory类\combobox下拉框显示日期\bin\Debug\combobox下拉框显示日期.exe.config
+E:\C#\directory类\combobox下拉框显示日期\bin\Debug\combobox下拉框显示日期.exe
+E:\C#\directory类\combobox下拉框显示日期\bin\Debug\combobox下拉框显示日期.pdb
+E:\C#\directory类\combobox下拉框显示日期\obj\Debug\combobox下拉框显示日期.csproj.AssemblyReference.cache
+E:\C#\directory类\combobox下拉框显示日期\obj\Debug\combobox下拉框显示日期.csproj.SuggestedBindingRedirects.cache
+E:\C#\directory类\combobox下拉框显示日期\obj\Debug\combobox下拉框显示日期.Form1.resources
+E:\C#\directory类\combobox下拉框显示日期\obj\Debug\combobox下拉框显示日期.Properties.Resources.resources
+E:\C#\directory类\combobox下拉框显示日期\obj\Debug\combobox下拉框显示日期.csproj.GenerateResource.cache
+E:\C#\directory类\combobox下拉框显示日期\obj\Debug\combobox下拉框显示日期.csproj.CoreCompileInputs.cache
+E:\C#\directory类\combobox下拉框显示日期\obj\Debug\combobox下拉框显示日期.exe
+E:\C#\directory类\combobox下拉框显示日期\obj\Debug\combobox下拉框显示日期.pdb

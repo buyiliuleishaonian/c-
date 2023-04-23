@@ -1,0 +1,8 @@
+E:\C#\this is my five  demo\枚举的练习\bin\Debug\枚举的练习.exe.config
+E:\C#\this is my five  demo\枚举的练习\bin\Debug\枚举的练习.exe
+E:\C#\this is my five  demo\枚举的练习\bin\Debug\枚举的练习.pdb
+E:\C#\this is my five  demo\枚举的练习\obj\Debug\枚举的练习.csproj.AssemblyReference.cache
+E:\C#\this is my five  demo\枚举的练习\obj\Debug\枚举的练习.csproj.SuggestedBindingRedirects.cache
+E:\C#\this is my five  demo\枚举的练习\obj\Debug\枚举的练习.csproj.CoreCompileInputs.cache
+E:\C#\this is my five  demo\枚举的练习\obj\Debug\枚举的练习.exe
+E:\C#\this is my five  demo\枚举的练习\obj\Debug\枚举的练习.pdb

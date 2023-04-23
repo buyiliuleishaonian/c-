@@ -1,0 +1,8 @@
+E:\C#\里氏转换语法和练习\集合的凉席\bin\Debug\集合的凉席.exe.config
+E:\C#\里氏转换语法和练习\集合的凉席\bin\Debug\集合的凉席.exe
+E:\C#\里氏转换语法和练习\集合的凉席\bin\Debug\集合的凉席.pdb
+E:\C#\里氏转换语法和练习\集合的凉席\obj\Debug\集合的凉席.csproj.AssemblyReference.cache
+E:\C#\里氏转换语法和练习\集合的凉席\obj\Debug\集合的凉席.csproj.SuggestedBindingRedirects.cache
+E:\C#\里氏转换语法和练习\集合的凉席\obj\Debug\集合的凉席.csproj.CoreCompileInputs.cache
+E:\C#\里氏转换语法和练习\集合的凉席\obj\Debug\集合的凉席.exe
+E:\C#\里氏转换语法和练习\集合的凉席\obj\Debug\集合的凉席.pdb

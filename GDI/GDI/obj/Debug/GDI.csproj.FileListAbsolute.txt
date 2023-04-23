@@ -1,0 +1,11 @@
+E:\C#\GDI\GDI\bin\Debug\GDI.exe.config
+E:\C#\GDI\GDI\bin\Debug\GDI.exe
+E:\C#\GDI\GDI\bin\Debug\GDI.pdb
+E:\C#\GDI\GDI\obj\Debug\GDI.csproj.AssemblyReference.cache
+E:\C#\GDI\GDI\obj\Debug\GDI.csproj.SuggestedBindingRedirects.cache
+E:\C#\GDI\GDI\obj\Debug\GDI.Form1.resources
+E:\C#\GDI\GDI\obj\Debug\GDI.Properties.Resources.resources
+E:\C#\GDI\GDI\obj\Debug\GDI.csproj.GenerateResource.cache
+E:\C#\GDI\GDI\obj\Debug\GDI.csproj.CoreCompileInputs.cache
+E:\C#\GDI\GDI\obj\Debug\GDI.exe
+E:\C#\GDI\GDI\obj\Debug\GDI.pdb

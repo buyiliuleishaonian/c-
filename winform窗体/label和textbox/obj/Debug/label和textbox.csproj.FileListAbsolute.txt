@@ -1,0 +1,11 @@
+E:\C#\winform窗体\label和textbox\bin\Debug\label和textbox.exe.config
+E:\C#\winform窗体\label和textbox\bin\Debug\label和textbox.exe
+E:\C#\winform窗体\label和textbox\bin\Debug\label和textbox.pdb
+E:\C#\winform窗体\label和textbox\obj\Debug\label和textbox.csproj.AssemblyReference.cache
+E:\C#\winform窗体\label和textbox\obj\Debug\label和textbox.csproj.SuggestedBindingRedirects.cache
+E:\C#\winform窗体\label和textbox\obj\Debug\label和textbox.Form1.resources
+E:\C#\winform窗体\label和textbox\obj\Debug\label和textbox.Properties.Resources.resources
+E:\C#\winform窗体\label和textbox\obj\Debug\label和textbox.csproj.GenerateResource.cache
+E:\C#\winform窗体\label和textbox\obj\Debug\label和textbox.csproj.CoreCompileInputs.cache
+E:\C#\winform窗体\label和textbox\obj\Debug\label和textbox.exe
+E:\C#\winform窗体\label和textbox\obj\Debug\label和textbox.pdb

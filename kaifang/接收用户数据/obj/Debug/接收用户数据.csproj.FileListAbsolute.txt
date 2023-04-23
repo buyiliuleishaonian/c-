@@ -1,0 +1,8 @@
+E:\C#\kaifang\接收用户数据\bin\Debug\接收用户数据.exe.config
+E:\C#\kaifang\接收用户数据\bin\Debug\接收用户数据.exe
+E:\C#\kaifang\接收用户数据\bin\Debug\接收用户数据.pdb
+E:\C#\kaifang\接收用户数据\obj\Debug\接收用户数据.csproj.AssemblyReference.cache
+E:\C#\kaifang\接收用户数据\obj\Debug\接收用户数据.csproj.SuggestedBindingRedirects.cache
+E:\C#\kaifang\接收用户数据\obj\Debug\接收用户数据.csproj.CoreCompileInputs.cache
+E:\C#\kaifang\接收用户数据\obj\Debug\接收用户数据.exe
+E:\C#\kaifang\接收用户数据\obj\Debug\接收用户数据.pdb

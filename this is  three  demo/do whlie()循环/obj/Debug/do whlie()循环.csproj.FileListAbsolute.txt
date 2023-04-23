@@ -1,0 +1,8 @@
+E:\C#\this is  three  demo\do whlie()循环\obj\Debug\do whlie()循环.csproj.AssemblyReference.cache
+E:\C#\this is  three  demo\do whlie()循环\obj\Debug\do whlie()循环.csproj.SuggestedBindingRedirects.cache
+E:\C#\this is  three  demo\do whlie()循环\obj\Debug\do whlie()循环.csproj.CoreCompileInputs.cache
+E:\C#\this is  three  demo\do whlie()循环\bin\Debug\do whlie()循环.exe.config
+E:\C#\this is  three  demo\do whlie()循环\bin\Debug\do whlie()循环.exe
+E:\C#\this is  three  demo\do whlie()循环\bin\Debug\do whlie()循环.pdb
+E:\C#\this is  three  demo\do whlie()循环\obj\Debug\do whlie()循环.exe
+E:\C#\this is  three  demo\do whlie()循环\obj\Debug\do whlie()循环.pdb

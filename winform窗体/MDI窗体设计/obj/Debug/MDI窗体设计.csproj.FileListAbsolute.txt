@@ -1,0 +1,11 @@
+E:\C#\winform窗体\MDI窗体设计\bin\Debug\MDI窗体设计.exe.config
+E:\C#\winform窗体\MDI窗体设计\bin\Debug\MDI窗体设计.exe
+E:\C#\winform窗体\MDI窗体设计\bin\Debug\MDI窗体设计.pdb
+E:\C#\winform窗体\MDI窗体设计\obj\Debug\MDI窗体设计.csproj.AssemblyReference.cache
+E:\C#\winform窗体\MDI窗体设计\obj\Debug\MDI窗体设计.csproj.SuggestedBindingRedirects.cache
+E:\C#\winform窗体\MDI窗体设计\obj\Debug\MDI窗体设计.Form1.resources
+E:\C#\winform窗体\MDI窗体设计\obj\Debug\MDI窗体设计.Properties.Resources.resources
+E:\C#\winform窗体\MDI窗体设计\obj\Debug\MDI窗体设计.csproj.GenerateResource.cache
+E:\C#\winform窗体\MDI窗体设计\obj\Debug\MDI窗体设计.csproj.CoreCompileInputs.cache
+E:\C#\winform窗体\MDI窗体设计\obj\Debug\MDI窗体设计.exe
+E:\C#\winform窗体\MDI窗体设计\obj\Debug\MDI窗体设计.pdb

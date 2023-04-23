@@ -1,0 +1,8 @@
+E:\C#\this is my five  demo\结构枚举练习\bin\Debug\结构枚举练习.exe.config
+E:\C#\this is my five  demo\结构枚举练习\bin\Debug\结构枚举练习.exe
+E:\C#\this is my five  demo\结构枚举练习\bin\Debug\结构枚举练习.pdb
+E:\C#\this is my five  demo\结构枚举练习\obj\Debug\结构枚举练习.csproj.AssemblyReference.cache
+E:\C#\this is my five  demo\结构枚举练习\obj\Debug\结构枚举练习.csproj.SuggestedBindingRedirects.cache
+E:\C#\this is my five  demo\结构枚举练习\obj\Debug\结构枚举练习.csproj.CoreCompileInputs.cache
+E:\C#\this is my five  demo\结构枚举练习\obj\Debug\结构枚举练习.exe
+E:\C#\this is my five  demo\结构枚举练习\obj\Debug\结构枚举练习.pdb

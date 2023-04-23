@@ -1,0 +1,8 @@
+E:\C#\kaifang\变量的使用规则\bin\Debug\变量的使用规则.exe.config
+E:\C#\kaifang\变量的使用规则\bin\Debug\变量的使用规则.exe
+E:\C#\kaifang\变量的使用规则\bin\Debug\变量的使用规则.pdb
+E:\C#\kaifang\变量的使用规则\obj\Debug\变量的使用规则.csproj.AssemblyReference.cache
+E:\C#\kaifang\变量的使用规则\obj\Debug\变量的使用规则.csproj.SuggestedBindingRedirects.cache
+E:\C#\kaifang\变量的使用规则\obj\Debug\变量的使用规则.csproj.CoreCompileInputs.cache
+E:\C#\kaifang\变量的使用规则\obj\Debug\变量的使用规则.exe
+E:\C#\kaifang\变量的使用规则\obj\Debug\变量的使用规则.pdb

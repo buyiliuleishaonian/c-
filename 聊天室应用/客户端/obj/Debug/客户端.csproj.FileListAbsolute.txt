@@ -1,0 +1,11 @@
+E:\C#\聊天室应用\客户端\bin\Debug\客户端.exe.config
+E:\C#\聊天室应用\客户端\bin\Debug\客户端.exe
+E:\C#\聊天室应用\客户端\bin\Debug\客户端.pdb
+E:\C#\聊天室应用\客户端\obj\Debug\客户端.csproj.AssemblyReference.cache
+E:\C#\聊天室应用\客户端\obj\Debug\客户端.csproj.SuggestedBindingRedirects.cache
+E:\C#\聊天室应用\客户端\obj\Debug\客户端.btnfile.resources
+E:\C#\聊天室应用\客户端\obj\Debug\客户端.Properties.Resources.resources
+E:\C#\聊天室应用\客户端\obj\Debug\客户端.csproj.GenerateResource.cache
+E:\C#\聊天室应用\客户端\obj\Debug\客户端.csproj.CoreCompileInputs.cache
+E:\C#\聊天室应用\客户端\obj\Debug\客户端.exe
+E:\C#\聊天室应用\客户端\obj\Debug\客户端.pdb

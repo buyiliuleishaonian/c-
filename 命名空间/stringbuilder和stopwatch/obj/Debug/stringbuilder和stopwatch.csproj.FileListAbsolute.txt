@@ -1,0 +1,8 @@
+E:\C#\命名空间\stringbuilder和stopwatch\bin\Debug\stringbuilder和stopwatch.exe.config
+E:\C#\命名空间\stringbuilder和stopwatch\bin\Debug\stringbuilder和stopwatch.exe
+E:\C#\命名空间\stringbuilder和stopwatch\bin\Debug\stringbuilder和stopwatch.pdb
+E:\C#\命名空间\stringbuilder和stopwatch\obj\Debug\stringbuilder和stopwatch.csproj.AssemblyReference.cache
+E:\C#\命名空间\stringbuilder和stopwatch\obj\Debug\stringbuilder和stopwatch.csproj.SuggestedBindingRedirects.cache
+E:\C#\命名空间\stringbuilder和stopwatch\obj\Debug\stringbuilder和stopwatch.csproj.CoreCompileInputs.cache
+E:\C#\命名空间\stringbuilder和stopwatch\obj\Debug\stringbuilder和stopwatch.exe
+E:\C#\命名空间\stringbuilder和stopwatch\obj\Debug\stringbuilder和stopwatch.pdb

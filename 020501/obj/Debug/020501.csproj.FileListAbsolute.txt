@@ -1,0 +1,8 @@
+E:\C#\020501\bin\Debug\020501.exe.config
+E:\C#\020501\bin\Debug\020501.exe
+E:\C#\020501\bin\Debug\020501.pdb
+E:\C#\020501\obj\Debug\020501.csproj.AssemblyReference.cache
+E:\C#\020501\obj\Debug\020501.csproj.SuggestedBindingRedirects.cache
+E:\C#\020501\obj\Debug\020501.csproj.CoreCompileInputs.cache
+E:\C#\020501\obj\Debug\020501.exe
+E:\C#\020501\obj\Debug\020501.pdb

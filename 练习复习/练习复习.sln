@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "练习复习", "练习复习\练习复习.csproj", "{ABD2E5E9-6C80-44DA-ABFC-3AD546ADA5E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "process进程", "process进程\process进程.csproj", "{442DD4BC-0D28-4FFE-B979-87F129D429A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1、线程执行带参数的方法", "1、线程执行带参数的方法\1、线程执行带参数的方法.csproj", "{958E6575-D346-4A16-959F-D00236B6C05C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Socket服务端", "Socket网络编辑简介\Socket服务端.csproj", "{E5C1826A-0B31-4EB2-90A9-C55AC3B7D09D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{F5C44EDF-FCBB-4333-B4AE-33DEF4FA3231}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "socket通信", "socket通信\socket通信.csproj", "{48C26CB0-321B-43E1-88F8-C138DFB6743B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABD2E5E9-6C80-44DA-ABFC-3AD546ADA5E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD2E5E9-6C80-44DA-ABFC-3AD546ADA5E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD2E5E9-6C80-44DA-ABFC-3AD546ADA5E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD2E5E9-6C80-44DA-ABFC-3AD546ADA5E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{442DD4BC-0D28-4FFE-B979-87F129D429A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442DD4BC-0D28-4FFE-B979-87F129D429A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442DD4BC-0D28-4FFE-B979-87F129D429A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442DD4BC-0D28-4FFE-B979-87F129D429A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{958E6575-D346-4A16-959F-D00236B6C05C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958E6575-D346-4A16-959F-D00236B6C05C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958E6575-D346-4A16-959F-D00236B6C05C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958E6575-D346-4A16-959F-D00236B6C05C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5C1826A-0B31-4EB2-90A9-C55AC3B7D09D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5C1826A-0B31-4EB2-90A9-C55AC3B7D09D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5C1826A-0B31-4EB2-90A9-C55AC3B7D09D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5C1826A-0B31-4EB2-90A9-C55AC3B7D09D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C44EDF-FCBB-4333-B4AE-33DEF4FA3231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C44EDF-FCBB-4333-B4AE-33DEF4FA3231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C44EDF-FCBB-4333-B4AE-33DEF4FA3231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C44EDF-FCBB-4333-B4AE-33DEF4FA3231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48C26CB0-321B-43E1-88F8-C138DFB6743B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48C26CB0-321B-43E1-88F8-C138DFB6743B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48C26CB0-321B-43E1-88F8-C138DFB6743B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48C26CB0-321B-43E1-88F8-C138DFB6743B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04E8EFA4-38EF-4160-87BC-4CEFA3C9A7C5}
+	EndGlobalSection
+EndGlobal

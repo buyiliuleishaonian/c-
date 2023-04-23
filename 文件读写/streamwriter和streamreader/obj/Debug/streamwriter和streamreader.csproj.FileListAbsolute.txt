@@ -1,0 +1,8 @@
+E:\C#\文件读写\streamwriter和streamreader\bin\Debug\streamwriter和streamreader.exe.config
+E:\C#\文件读写\streamwriter和streamreader\bin\Debug\streamwriter和streamreader.exe
+E:\C#\文件读写\streamwriter和streamreader\bin\Debug\streamwriter和streamreader.pdb
+E:\C#\文件读写\streamwriter和streamreader\obj\Debug\streamwriter和streamreader.csproj.AssemblyReference.cache
+E:\C#\文件读写\streamwriter和streamreader\obj\Debug\streamwriter和streamreader.csproj.SuggestedBindingRedirects.cache
+E:\C#\文件读写\streamwriter和streamreader\obj\Debug\streamwriter和streamreader.csproj.CoreCompileInputs.cache
+E:\C#\文件读写\streamwriter和streamreader\obj\Debug\streamwriter和streamreader.exe
+E:\C#\文件读写\streamwriter和streamreader\obj\Debug\streamwriter和streamreader.pdb

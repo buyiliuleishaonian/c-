@@ -1,0 +1,8 @@
+E:\C#\this is   my  6  demo\判断闰年\bin\Debug\判断闰年.exe.config
+E:\C#\this is   my  6  demo\判断闰年\bin\Debug\判断闰年.exe
+E:\C#\this is   my  6  demo\判断闰年\bin\Debug\判断闰年.pdb
+E:\C#\this is   my  6  demo\判断闰年\obj\Debug\判断闰年.csproj.AssemblyReference.cache
+E:\C#\this is   my  6  demo\判断闰年\obj\Debug\判断闰年.csproj.SuggestedBindingRedirects.cache
+E:\C#\this is   my  6  demo\判断闰年\obj\Debug\判断闰年.csproj.CoreCompileInputs.cache
+E:\C#\this is   my  6  demo\判断闰年\obj\Debug\判断闰年.exe
+E:\C#\this is   my  6  demo\判断闰年\obj\Debug\判断闰年.pdb

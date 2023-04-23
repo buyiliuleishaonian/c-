@@ -1,0 +1,8 @@
+E:\C#\文件读写\模拟移动电脑硬盘，U盘。MP3\bin\Debug\模拟移动电脑硬盘，U盘。MP3.exe.config
+E:\C#\文件读写\模拟移动电脑硬盘，U盘。MP3\bin\Debug\模拟移动电脑硬盘，U盘。MP3.exe
+E:\C#\文件读写\模拟移动电脑硬盘，U盘。MP3\bin\Debug\模拟移动电脑硬盘，U盘。MP3.pdb
+E:\C#\文件读写\模拟移动电脑硬盘，U盘。MP3\obj\Debug\模拟移动电脑硬盘，U盘。MP3.csproj.AssemblyReference.cache
+E:\C#\文件读写\模拟移动电脑硬盘，U盘。MP3\obj\Debug\模拟移动电脑硬盘，U盘。MP3.csproj.SuggestedBindingRedirects.cache
+E:\C#\文件读写\模拟移动电脑硬盘，U盘。MP3\obj\Debug\模拟移动电脑硬盘，U盘。MP3.csproj.CoreCompileInputs.cache
+E:\C#\文件读写\模拟移动电脑硬盘，U盘。MP3\obj\Debug\模拟移动电脑硬盘，U盘。MP3.exe
+E:\C#\文件读写\模拟移动电脑硬盘，U盘。MP3\obj\Debug\模拟移动电脑硬盘，U盘。MP3.pdb

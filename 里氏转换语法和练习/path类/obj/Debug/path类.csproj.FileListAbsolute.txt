@@ -1,0 +1,8 @@
+E:\C#\里氏转换语法和练习\path类\bin\Debug\path类.exe.config
+E:\C#\里氏转换语法和练习\path类\bin\Debug\path类.exe
+E:\C#\里氏转换语法和练习\path类\bin\Debug\path类.pdb
+E:\C#\里氏转换语法和练习\path类\obj\Debug\path类.csproj.AssemblyReference.cache
+E:\C#\里氏转换语法和练习\path类\obj\Debug\path类.csproj.SuggestedBindingRedirects.cache
+E:\C#\里氏转换语法和练习\path类\obj\Debug\path类.csproj.CoreCompileInputs.cache
+E:\C#\里氏转换语法和练习\path类\obj\Debug\path类.exe
+E:\C#\里氏转换语法和练习\path类\obj\Debug\path类.pdb

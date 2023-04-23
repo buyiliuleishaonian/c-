@@ -1,0 +1,8 @@
+E:\C#\命名空间\字符串的不可变性\bin\Debug\字符串的不可变性.exe.config
+E:\C#\命名空间\字符串的不可变性\bin\Debug\字符串的不可变性.exe
+E:\C#\命名空间\字符串的不可变性\bin\Debug\字符串的不可变性.pdb
+E:\C#\命名空间\字符串的不可变性\obj\Debug\字符串的不可变性.csproj.AssemblyReference.cache
+E:\C#\命名空间\字符串的不可变性\obj\Debug\字符串的不可变性.csproj.SuggestedBindingRedirects.cache
+E:\C#\命名空间\字符串的不可变性\obj\Debug\字符串的不可变性.csproj.CoreCompileInputs.cache
+E:\C#\命名空间\字符串的不可变性\obj\Debug\字符串的不可变性.exe
+E:\C#\命名空间\字符串的不可变性\obj\Debug\字符串的不可变性.pdb

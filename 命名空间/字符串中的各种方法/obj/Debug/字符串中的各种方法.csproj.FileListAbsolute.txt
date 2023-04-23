@@ -1,0 +1,8 @@
+E:\C#\命名空间\字符串中的各种方法\bin\Debug\字符串中的各种方法.exe.config
+E:\C#\命名空间\字符串中的各种方法\bin\Debug\字符串中的各种方法.exe
+E:\C#\命名空间\字符串中的各种方法\bin\Debug\字符串中的各种方法.pdb
+E:\C#\命名空间\字符串中的各种方法\obj\Debug\字符串中的各种方法.csproj.AssemblyReference.cache
+E:\C#\命名空间\字符串中的各种方法\obj\Debug\字符串中的各种方法.csproj.SuggestedBindingRedirects.cache
+E:\C#\命名空间\字符串中的各种方法\obj\Debug\字符串中的各种方法.csproj.CoreCompileInputs.cache
+E:\C#\命名空间\字符串中的各种方法\obj\Debug\字符串中的各种方法.exe
+E:\C#\命名空间\字符串中的各种方法\obj\Debug\字符串中的各种方法.pdb

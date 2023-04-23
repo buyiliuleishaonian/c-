@@ -1,0 +1,8 @@
+E:\C#\this is my  four\this is my  four\bin\Debug\this is my  four.exe.config
+E:\C#\this is my  four\this is my  four\bin\Debug\this is my  four.exe
+E:\C#\this is my  four\this is my  four\bin\Debug\this is my  four.pdb
+E:\C#\this is my  four\this is my  four\obj\Debug\this is my  four.csproj.AssemblyReference.cache
+E:\C#\this is my  four\this is my  four\obj\Debug\this is my  four.csproj.SuggestedBindingRedirects.cache
+E:\C#\this is my  four\this is my  four\obj\Debug\this is my  four.csproj.CoreCompileInputs.cache
+E:\C#\this is my  four\this is my  four\obj\Debug\this is my  four.exe
+E:\C#\this is my  four\this is my  four\obj\Debug\this is my  four.pdb

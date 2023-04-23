@@ -1,0 +1,8 @@
+E:\C#\this is my five  demo\诗歌多日复习\obj\Debug\诗歌多日复习.csproj.AssemblyReference.cache
+E:\C#\this is my five  demo\诗歌多日复习\obj\Debug\诗歌多日复习.csproj.SuggestedBindingRedirects.cache
+E:\C#\this is my five  demo\诗歌多日复习\obj\Debug\诗歌多日复习.csproj.CoreCompileInputs.cache
+E:\C#\this is my five  demo\诗歌多日复习\bin\Debug\诗歌多日复习.exe.config
+E:\C#\this is my five  demo\诗歌多日复习\bin\Debug\诗歌多日复习.exe
+E:\C#\this is my five  demo\诗歌多日复习\bin\Debug\诗歌多日复习.pdb
+E:\C#\this is my five  demo\诗歌多日复习\obj\Debug\诗歌多日复习.exe
+E:\C#\this is my five  demo\诗歌多日复习\obj\Debug\诗歌多日复习.pdb

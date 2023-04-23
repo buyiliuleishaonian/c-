@@ -1,0 +1,8 @@
+E:\C#\命名空间\值类型和引用类型\bin\Debug\值类型和引用类型.exe.config
+E:\C#\命名空间\值类型和引用类型\bin\Debug\值类型和引用类型.exe
+E:\C#\命名空间\值类型和引用类型\bin\Debug\值类型和引用类型.pdb
+E:\C#\命名空间\值类型和引用类型\obj\Debug\值类型和引用类型.csproj.AssemblyReference.cache
+E:\C#\命名空间\值类型和引用类型\obj\Debug\值类型和引用类型.csproj.SuggestedBindingRedirects.cache
+E:\C#\命名空间\值类型和引用类型\obj\Debug\值类型和引用类型.csproj.CoreCompileInputs.cache
+E:\C#\命名空间\值类型和引用类型\obj\Debug\值类型和引用类型.exe
+E:\C#\命名空间\值类型和引用类型\obj\Debug\值类型和引用类型.pdb

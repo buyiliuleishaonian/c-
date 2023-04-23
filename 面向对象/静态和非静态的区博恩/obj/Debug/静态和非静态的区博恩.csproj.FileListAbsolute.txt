@@ -1,0 +1,8 @@
+E:\C#\面向对象\静态和非静态的区博恩\bin\Debug\静态和非静态的区博恩.exe.config
+E:\C#\面向对象\静态和非静态的区博恩\bin\Debug\静态和非静态的区博恩.exe
+E:\C#\面向对象\静态和非静态的区博恩\bin\Debug\静态和非静态的区博恩.pdb
+E:\C#\面向对象\静态和非静态的区博恩\obj\Debug\静态和非静态的区博恩.csproj.AssemblyReference.cache
+E:\C#\面向对象\静态和非静态的区博恩\obj\Debug\静态和非静态的区博恩.csproj.SuggestedBindingRedirects.cache
+E:\C#\面向对象\静态和非静态的区博恩\obj\Debug\静态和非静态的区博恩.csproj.CoreCompileInputs.cache
+E:\C#\面向对象\静态和非静态的区博恩\obj\Debug\静态和非静态的区博恩.exe
+E:\C#\面向对象\静态和非静态的区博恩\obj\Debug\静态和非静态的区博恩.pdb

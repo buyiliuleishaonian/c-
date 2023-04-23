@@ -1,0 +1,8 @@
+E:\C#\练习1-3\编程输入九九乘法表\bin\Debug\编程输入九九乘法表.exe.config
+E:\C#\练习1-3\编程输入九九乘法表\bin\Debug\编程输入九九乘法表.exe
+E:\C#\练习1-3\编程输入九九乘法表\bin\Debug\编程输入九九乘法表.pdb
+E:\C#\练习1-3\编程输入九九乘法表\obj\Debug\编程输入九九乘法表.csproj.AssemblyReference.cache
+E:\C#\练习1-3\编程输入九九乘法表\obj\Debug\编程输入九九乘法表.csproj.SuggestedBindingRedirects.cache
+E:\C#\练习1-3\编程输入九九乘法表\obj\Debug\编程输入九九乘法表.csproj.CoreCompileInputs.cache
+E:\C#\练习1-3\编程输入九九乘法表\obj\Debug\编程输入九九乘法表.exe
+E:\C#\练习1-3\编程输入九九乘法表\obj\Debug\编程输入九九乘法表.pdb

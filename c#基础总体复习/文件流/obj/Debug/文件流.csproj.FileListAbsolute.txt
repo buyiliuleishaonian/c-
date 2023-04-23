@@ -1,0 +1,8 @@
+E:\C#\c#基础总体复习\文件流\bin\Debug\文件流.exe.config
+E:\C#\c#基础总体复习\文件流\bin\Debug\文件流.exe
+E:\C#\c#基础总体复习\文件流\bin\Debug\文件流.pdb
+E:\C#\c#基础总体复习\文件流\obj\Debug\文件流.csproj.AssemblyReference.cache
+E:\C#\c#基础总体复习\文件流\obj\Debug\文件流.csproj.SuggestedBindingRedirects.cache
+E:\C#\c#基础总体复习\文件流\obj\Debug\文件流.csproj.CoreCompileInputs.cache
+E:\C#\c#基础总体复习\文件流\obj\Debug\文件流.exe
+E:\C#\c#基础总体复习\文件流\obj\Debug\文件流.pdb

@@ -1,0 +1,11 @@
+E:\C#\directory类\线程\bin\Debug\线程.exe.config
+E:\C#\directory类\线程\bin\Debug\线程.exe
+E:\C#\directory类\线程\bin\Debug\线程.pdb
+E:\C#\directory类\线程\obj\Debug\线程.csproj.AssemblyReference.cache
+E:\C#\directory类\线程\obj\Debug\线程.csproj.SuggestedBindingRedirects.cache
+E:\C#\directory类\线程\obj\Debug\线程.Form1.resources
+E:\C#\directory类\线程\obj\Debug\线程.Properties.Resources.resources
+E:\C#\directory类\线程\obj\Debug\线程.csproj.GenerateResource.cache
+E:\C#\directory类\线程\obj\Debug\线程.csproj.CoreCompileInputs.cache
+E:\C#\directory类\线程\obj\Debug\线程.exe
+E:\C#\directory类\线程\obj\Debug\线程.pdb

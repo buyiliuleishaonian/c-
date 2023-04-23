@@ -1,0 +1,8 @@
+E:\C#\里氏转换语法和练习\ArrayList和HashTable\bin\Debug\ArrayList和HashTable.exe.config
+E:\C#\里氏转换语法和练习\ArrayList和HashTable\bin\Debug\ArrayList和HashTable.exe
+E:\C#\里氏转换语法和练习\ArrayList和HashTable\bin\Debug\ArrayList和HashTable.pdb
+E:\C#\里氏转换语法和练习\ArrayList和HashTable\obj\Debug\ArrayList和HashTable.csproj.AssemblyReference.cache
+E:\C#\里氏转换语法和练习\ArrayList和HashTable\obj\Debug\ArrayList和HashTable.csproj.SuggestedBindingRedirects.cache
+E:\C#\里氏转换语法和练习\ArrayList和HashTable\obj\Debug\ArrayList和HashTable.csproj.CoreCompileInputs.cache
+E:\C#\里氏转换语法和练习\ArrayList和HashTable\obj\Debug\ArrayList和HashTable.exe
+E:\C#\里氏转换语法和练习\ArrayList和HashTable\obj\Debug\ArrayList和HashTable.pdb

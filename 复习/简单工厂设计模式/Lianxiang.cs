@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace 简单工厂设计模式
+{
+    internal class Lianxiang:Contour
+    {
+        public override void Test()
+        {
+            Console.WriteLine("我是联想的");
+        }
+    }
+}

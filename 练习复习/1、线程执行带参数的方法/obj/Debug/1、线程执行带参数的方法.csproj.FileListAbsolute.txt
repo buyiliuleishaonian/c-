@@ -1,0 +1,11 @@
+E:\C#\练习复习\1、线程执行带参数的方法\bin\Debug\1、线程执行带参数的方法.exe.config
+E:\C#\练习复习\1、线程执行带参数的方法\bin\Debug\1、线程执行带参数的方法.exe
+E:\C#\练习复习\1、线程执行带参数的方法\bin\Debug\1、线程执行带参数的方法.pdb
+E:\C#\练习复习\1、线程执行带参数的方法\obj\Debug\1、线程执行带参数的方法.csproj.AssemblyReference.cache
+E:\C#\练习复习\1、线程执行带参数的方法\obj\Debug\1、线程执行带参数的方法.csproj.SuggestedBindingRedirects.cache
+E:\C#\练习复习\1、线程执行带参数的方法\obj\Debug\_1_线程执行带参数的方法.Form1.resources
+E:\C#\练习复习\1、线程执行带参数的方法\obj\Debug\_1_线程执行带参数的方法.Properties.Resources.resources
+E:\C#\练习复习\1、线程执行带参数的方法\obj\Debug\1、线程执行带参数的方法.csproj.GenerateResource.cache
+E:\C#\练习复习\1、线程执行带参数的方法\obj\Debug\1、线程执行带参数的方法.csproj.CoreCompileInputs.cache
+E:\C#\练习复习\1、线程执行带参数的方法\obj\Debug\1、线程执行带参数的方法.exe
+E:\C#\练习复习\1、线程执行带参数的方法\obj\Debug\1、线程执行带参数的方法.pdb

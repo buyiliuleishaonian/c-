@@ -1,0 +1,8 @@
+E:\C#\this is   my  6  demo\用out参数，写一个多类型输出的方法\bin\Debug\用out参数，写一个多类型输出的方法.exe.config
+E:\C#\this is   my  6  demo\用out参数，写一个多类型输出的方法\bin\Debug\用out参数，写一个多类型输出的方法.exe
+E:\C#\this is   my  6  demo\用out参数，写一个多类型输出的方法\bin\Debug\用out参数，写一个多类型输出的方法.pdb
+E:\C#\this is   my  6  demo\用out参数，写一个多类型输出的方法\obj\Debug\用out参数，写一个多类型输出的方法.csproj.AssemblyReference.cache
+E:\C#\this is   my  6  demo\用out参数，写一个多类型输出的方法\obj\Debug\用out参数，写一个多类型输出的方法.csproj.SuggestedBindingRedirects.cache
+E:\C#\this is   my  6  demo\用out参数，写一个多类型输出的方法\obj\Debug\用out参数，写一个多类型输出的方法.csproj.CoreCompileInputs.cache
+E:\C#\this is   my  6  demo\用out参数，写一个多类型输出的方法\obj\Debug\用out参数，写一个多类型输出的方法.exe
+E:\C#\this is   my  6  demo\用out参数，写一个多类型输出的方法\obj\Debug\用out参数，写一个多类型输出的方法.pdb

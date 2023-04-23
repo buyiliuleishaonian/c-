@@ -1,0 +1,8 @@
+E:\C#\里氏转换语法和练习\简繁转换\bin\Debug\简繁转换.exe.config
+E:\C#\里氏转换语法和练习\简繁转换\bin\Debug\简繁转换.exe
+E:\C#\里氏转换语法和练习\简繁转换\bin\Debug\简繁转换.pdb
+E:\C#\里氏转换语法和练习\简繁转换\obj\Debug\简繁转换.csproj.AssemblyReference.cache
+E:\C#\里氏转换语法和练习\简繁转换\obj\Debug\简繁转换.csproj.SuggestedBindingRedirects.cache
+E:\C#\里氏转换语法和练习\简繁转换\obj\Debug\简繁转换.csproj.CoreCompileInputs.cache
+E:\C#\里氏转换语法和练习\简繁转换\obj\Debug\简繁转换.exe
+E:\C#\里氏转换语法和练习\简繁转换\obj\Debug\简繁转换.pdb

@@ -1,0 +1,12 @@
+E:\C#\命名空间\命名空间\obj\Debug\命名空间.csproj.AssemblyReference.cache
+E:\C#\命名空间\命名空间\obj\Debug\命名空间.csproj.SuggestedBindingRedirects.cache
+E:\C#\命名空间\命名空间\obj\Debug\命名空间.csproj.CoreCompileInputs.cache
+E:\C#\命名空间\命名空间\bin\Debug\命名空间.exe.config
+E:\C#\命名空间\命名空间\bin\Debug\命名空间.exe
+E:\C#\命名空间\命名空间\bin\Debug\命名空间.pdb
+E:\C#\命名空间\命名空间\bin\Debug\复习.exe
+E:\C#\命名空间\命名空间\bin\Debug\复习.pdb
+E:\C#\命名空间\命名空间\bin\Debug\复习.exe.config
+E:\C#\命名空间\命名空间\obj\Debug\命名空间.csproj.CopyComplete
+E:\C#\命名空间\命名空间\obj\Debug\命名空间.exe
+E:\C#\命名空间\命名空间\obj\Debug\命名空间.pdb

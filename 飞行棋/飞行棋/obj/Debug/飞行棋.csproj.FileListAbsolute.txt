@@ -1,0 +1,8 @@
+E:\C#\飞行棋\飞行棋\bin\Debug\飞行棋.exe.config
+E:\C#\飞行棋\飞行棋\bin\Debug\飞行棋.exe
+E:\C#\飞行棋\飞行棋\bin\Debug\飞行棋.pdb
+E:\C#\飞行棋\飞行棋\obj\Debug\飞行棋.csproj.AssemblyReference.cache
+E:\C#\飞行棋\飞行棋\obj\Debug\飞行棋.csproj.SuggestedBindingRedirects.cache
+E:\C#\飞行棋\飞行棋\obj\Debug\飞行棋.csproj.CoreCompileInputs.cache
+E:\C#\飞行棋\飞行棋\obj\Debug\飞行棋.exe
+E:\C#\飞行棋\飞行棋\obj\Debug\飞行棋.pdb

@@ -1,0 +1,8 @@
+E:\C#\文件读写\抽象类\obj\Debug\抽象类.csproj.AssemblyReference.cache
+E:\C#\文件读写\抽象类\obj\Debug\抽象类.csproj.SuggestedBindingRedirects.cache
+E:\C#\文件读写\抽象类\obj\Debug\抽象类.csproj.CoreCompileInputs.cache
+E:\C#\文件读写\抽象类\bin\Debug\抽象类.exe.config
+E:\C#\文件读写\抽象类\bin\Debug\抽象类.exe
+E:\C#\文件读写\抽象类\bin\Debug\抽象类.pdb
+E:\C#\文件读写\抽象类\obj\Debug\抽象类.exe
+E:\C#\文件读写\抽象类\obj\Debug\抽象类.pdb

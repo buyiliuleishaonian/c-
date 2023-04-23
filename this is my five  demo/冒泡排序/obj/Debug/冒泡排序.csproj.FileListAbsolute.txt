@@ -1,0 +1,8 @@
+E:\C#\this is my five  demo\冒泡排序\bin\Debug\冒泡排序.exe.config
+E:\C#\this is my five  demo\冒泡排序\bin\Debug\冒泡排序.exe
+E:\C#\this is my five  demo\冒泡排序\bin\Debug\冒泡排序.pdb
+E:\C#\this is my five  demo\冒泡排序\obj\Debug\冒泡排序.csproj.AssemblyReference.cache
+E:\C#\this is my five  demo\冒泡排序\obj\Debug\冒泡排序.csproj.SuggestedBindingRedirects.cache
+E:\C#\this is my five  demo\冒泡排序\obj\Debug\冒泡排序.csproj.CoreCompileInputs.cache
+E:\C#\this is my five  demo\冒泡排序\obj\Debug\冒泡排序.exe
+E:\C#\this is my five  demo\冒泡排序\obj\Debug\冒泡排序.pdb

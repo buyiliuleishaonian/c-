@@ -1,0 +1,11 @@
+E:\C#\directory类\webbrowbox\bin\Debug\webbrowbox.exe.config
+E:\C#\directory类\webbrowbox\bin\Debug\webbrowbox.exe
+E:\C#\directory类\webbrowbox\bin\Debug\webbrowbox.pdb
+E:\C#\directory类\webbrowbox\obj\Debug\webbrowbox.csproj.AssemblyReference.cache
+E:\C#\directory类\webbrowbox\obj\Debug\webbrowbox.csproj.SuggestedBindingRedirects.cache
+E:\C#\directory类\webbrowbox\obj\Debug\webbrowbox.Form1.resources
+E:\C#\directory类\webbrowbox\obj\Debug\webbrowbox.Properties.Resources.resources
+E:\C#\directory类\webbrowbox\obj\Debug\webbrowbox.csproj.GenerateResource.cache
+E:\C#\directory类\webbrowbox\obj\Debug\webbrowbox.csproj.CoreCompileInputs.cache
+E:\C#\directory类\webbrowbox\obj\Debug\webbrowbox.exe
+E:\C#\directory类\webbrowbox\obj\Debug\webbrowbox.pdb

@@ -1,0 +1,8 @@
+E:\C#\命名空间\string方法的练习\bin\Debug\string方法的练习.exe.config
+E:\C#\命名空间\string方法的练习\bin\Debug\string方法的练习.exe
+E:\C#\命名空间\string方法的练习\bin\Debug\string方法的练习.pdb
+E:\C#\命名空间\string方法的练习\obj\Debug\string方法的练习.csproj.AssemblyReference.cache
+E:\C#\命名空间\string方法的练习\obj\Debug\string方法的练习.csproj.SuggestedBindingRedirects.cache
+E:\C#\命名空间\string方法的练习\obj\Debug\string方法的练习.csproj.CoreCompileInputs.cache
+E:\C#\命名空间\string方法的练习\obj\Debug\string方法的练习.exe
+E:\C#\命名空间\string方法的练习\obj\Debug\string方法的练习.pdb

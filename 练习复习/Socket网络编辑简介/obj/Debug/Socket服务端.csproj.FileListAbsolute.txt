@@ -1,0 +1,11 @@
+E:\C#\练习复习\Socket网络编辑简介\bin\Debug\Socket网络编辑简介.exe.config
+E:\C#\练习复习\Socket网络编辑简介\bin\Debug\Socket网络编辑简介.exe
+E:\C#\练习复习\Socket网络编辑简介\bin\Debug\Socket网络编辑简介.pdb
+E:\C#\练习复习\Socket网络编辑简介\obj\Debug\Socket服务端.csproj.AssemblyReference.cache
+E:\C#\练习复习\Socket网络编辑简介\obj\Debug\Socket服务端.csproj.SuggestedBindingRedirects.cache
+E:\C#\练习复习\Socket网络编辑简介\obj\Debug\Socket网络编辑简介.Form1.resources
+E:\C#\练习复习\Socket网络编辑简介\obj\Debug\Socket网络编辑简介.Properties.Resources.resources
+E:\C#\练习复习\Socket网络编辑简介\obj\Debug\Socket服务端.csproj.GenerateResource.cache
+E:\C#\练习复习\Socket网络编辑简介\obj\Debug\Socket服务端.csproj.CoreCompileInputs.cache
+E:\C#\练习复习\Socket网络编辑简介\obj\Debug\Socket网络编辑简介.exe
+E:\C#\练习复习\Socket网络编辑简介\obj\Debug\Socket网络编辑简介.pdb

@@ -1,0 +1,8 @@
+E:\C#\kaifang\bianliang\bin\Debug\bianliang.exe.config
+E:\C#\kaifang\bianliang\bin\Debug\bianliang.exe
+E:\C#\kaifang\bianliang\bin\Debug\bianliang.pdb
+E:\C#\kaifang\bianliang\obj\Debug\bianliang.csproj.AssemblyReference.cache
+E:\C#\kaifang\bianliang\obj\Debug\bianliang.csproj.SuggestedBindingRedirects.cache
+E:\C#\kaifang\bianliang\obj\Debug\bianliang.csproj.CoreCompileInputs.cache
+E:\C#\kaifang\bianliang\obj\Debug\bianliang.exe
+E:\C#\kaifang\bianliang\obj\Debug\bianliang.pdb

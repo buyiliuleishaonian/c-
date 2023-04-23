@@ -1,0 +1,8 @@
+E:\C#\directory类\directory\bin\Debug\directory.exe.config
+E:\C#\directory类\directory\bin\Debug\directory.exe
+E:\C#\directory类\directory\bin\Debug\directory.pdb
+E:\C#\directory类\directory\obj\Debug\directory.csproj.AssemblyReference.cache
+E:\C#\directory类\directory\obj\Debug\directory.csproj.SuggestedBindingRedirects.cache
+E:\C#\directory类\directory\obj\Debug\directory.csproj.CoreCompileInputs.cache
+E:\C#\directory类\directory\obj\Debug\directory.exe
+E:\C#\directory类\directory\obj\Debug\directory.pdb

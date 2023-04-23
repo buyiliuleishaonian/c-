@@ -1,0 +1,11 @@
+E:\C#\聊天室应用\聊天室应用\obj\Debug\聊天室应用.csproj.AssemblyReference.cache
+E:\C#\聊天室应用\聊天室应用\obj\Debug\聊天室应用.csproj.SuggestedBindingRedirects.cache
+E:\C#\聊天室应用\聊天室应用\obj\Debug\聊天室应用.Form1.resources
+E:\C#\聊天室应用\聊天室应用\obj\Debug\聊天室应用.Properties.Resources.resources
+E:\C#\聊天室应用\聊天室应用\obj\Debug\聊天室应用.csproj.GenerateResource.cache
+E:\C#\聊天室应用\聊天室应用\obj\Debug\聊天室应用.csproj.CoreCompileInputs.cache
+E:\C#\聊天室应用\聊天室应用\bin\Debug\聊天室应用.exe.config
+E:\C#\聊天室应用\聊天室应用\bin\Debug\聊天室应用.exe
+E:\C#\聊天室应用\聊天室应用\bin\Debug\聊天室应用.pdb
+E:\C#\聊天室应用\聊天室应用\obj\Debug\聊天室应用.exe
+E:\C#\聊天室应用\聊天室应用\obj\Debug\聊天室应用.pdb

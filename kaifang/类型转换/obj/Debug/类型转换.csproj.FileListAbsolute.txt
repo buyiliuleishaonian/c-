@@ -1,0 +1,8 @@
+E:\C#\kaifang\类型转换\bin\Debug\类型转换.exe.config
+E:\C#\kaifang\类型转换\bin\Debug\类型转换.exe
+E:\C#\kaifang\类型转换\bin\Debug\类型转换.pdb
+E:\C#\kaifang\类型转换\obj\Debug\类型转换.csproj.AssemblyReference.cache
+E:\C#\kaifang\类型转换\obj\Debug\类型转换.csproj.SuggestedBindingRedirects.cache
+E:\C#\kaifang\类型转换\obj\Debug\类型转换.csproj.CoreCompileInputs.cache
+E:\C#\kaifang\类型转换\obj\Debug\类型转换.exe
+E:\C#\kaifang\类型转换\obj\Debug\类型转换.pdb

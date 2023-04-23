@@ -1,0 +1,8 @@
+E:\C#\this is my five  demo\枚举和int以及string类型的转换\bin\Debug\枚举和int以及string类型的转换.exe.config
+E:\C#\this is my five  demo\枚举和int以及string类型的转换\bin\Debug\枚举和int以及string类型的转换.exe
+E:\C#\this is my five  demo\枚举和int以及string类型的转换\bin\Debug\枚举和int以及string类型的转换.pdb
+E:\C#\this is my five  demo\枚举和int以及string类型的转换\obj\Debug\枚举和int以及string类型的转换.csproj.AssemblyReference.cache
+E:\C#\this is my five  demo\枚举和int以及string类型的转换\obj\Debug\枚举和int以及string类型的转换.csproj.SuggestedBindingRedirects.cache
+E:\C#\this is my five  demo\枚举和int以及string类型的转换\obj\Debug\枚举和int以及string类型的转换.csproj.CoreCompileInputs.cache
+E:\C#\this is my five  demo\枚举和int以及string类型的转换\obj\Debug\枚举和int以及string类型的转换.exe
+E:\C#\this is my five  demo\枚举和int以及string类型的转换\obj\Debug\枚举和int以及string类型的转换.pdb

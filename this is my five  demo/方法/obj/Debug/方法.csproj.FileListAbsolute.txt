@@ -1,0 +1,8 @@
+E:\C#\this is my five  demo\方法\bin\Debug\方法.exe.config
+E:\C#\this is my five  demo\方法\bin\Debug\方法.exe
+E:\C#\this is my five  demo\方法\bin\Debug\方法.pdb
+E:\C#\this is my five  demo\方法\obj\Debug\方法.csproj.AssemblyReference.cache
+E:\C#\this is my five  demo\方法\obj\Debug\方法.csproj.SuggestedBindingRedirects.cache
+E:\C#\this is my five  demo\方法\obj\Debug\方法.csproj.CoreCompileInputs.cache
+E:\C#\this is my five  demo\方法\obj\Debug\方法.exe
+E:\C#\this is my five  demo\方法\obj\Debug\方法.pdb

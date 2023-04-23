@@ -1,0 +1,11 @@
+E:\C#\练习复习\socket通信\bin\Debug\socket通信.exe.config
+E:\C#\练习复习\socket通信\bin\Debug\socket通信.exe
+E:\C#\练习复习\socket通信\bin\Debug\socket通信.pdb
+E:\C#\练习复习\socket通信\obj\Debug\socket通信.csproj.AssemblyReference.cache
+E:\C#\练习复习\socket通信\obj\Debug\socket通信.csproj.SuggestedBindingRedirects.cache
+E:\C#\练习复习\socket通信\obj\Debug\socket通信.Form1.resources
+E:\C#\练习复习\socket通信\obj\Debug\socket通信.Properties.Resources.resources
+E:\C#\练习复习\socket通信\obj\Debug\socket通信.csproj.GenerateResource.cache
+E:\C#\练习复习\socket通信\obj\Debug\socket通信.csproj.CoreCompileInputs.cache
+E:\C#\练习复习\socket通信\obj\Debug\socket通信.exe
+E:\C#\练习复习\socket通信\obj\Debug\socket通信.pdb

@@ -1,0 +1,8 @@
+E:\C#\文件读写\dictionary集合\obj\Debug\dictionary集合.csproj.AssemblyReference.cache
+E:\C#\文件读写\dictionary集合\obj\Debug\dictionary集合.csproj.SuggestedBindingRedirects.cache
+E:\C#\文件读写\dictionary集合\obj\Debug\dictionary集合.csproj.CoreCompileInputs.cache
+E:\C#\文件读写\dictionary集合\bin\Debug\dictionary集合.exe.config
+E:\C#\文件读写\dictionary集合\bin\Debug\dictionary集合.exe
+E:\C#\文件读写\dictionary集合\bin\Debug\dictionary集合.pdb
+E:\C#\文件读写\dictionary集合\obj\Debug\dictionary集合.exe
+E:\C#\文件读写\dictionary集合\obj\Debug\dictionary集合.pdb

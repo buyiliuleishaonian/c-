@@ -1,0 +1,8 @@
+E:\C#\面向对象\类的练习\bin\Debug\类的练习.exe.config
+E:\C#\面向对象\类的练习\bin\Debug\类的练习.exe
+E:\C#\面向对象\类的练习\bin\Debug\类的练习.pdb
+E:\C#\面向对象\类的练习\obj\Debug\类的练习.csproj.AssemblyReference.cache
+E:\C#\面向对象\类的练习\obj\Debug\类的练习.csproj.SuggestedBindingRedirects.cache
+E:\C#\面向对象\类的练习\obj\Debug\类的练习.csproj.CoreCompileInputs.cache
+E:\C#\面向对象\类的练习\obj\Debug\类的练习.exe
+E:\C#\面向对象\类的练习\obj\Debug\类的练习.pdb

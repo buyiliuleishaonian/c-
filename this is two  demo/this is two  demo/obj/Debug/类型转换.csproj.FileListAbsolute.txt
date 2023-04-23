@@ -1,0 +1,8 @@
+E:\C#\this is two  demo\this is two  demo\bin\Debug\this is two  demo.exe.config
+E:\C#\this is two  demo\this is two  demo\bin\Debug\this is two  demo.exe
+E:\C#\this is two  demo\this is two  demo\bin\Debug\this is two  demo.pdb
+E:\C#\this is two  demo\this is two  demo\obj\Debug\类型转换.csproj.AssemblyReference.cache
+E:\C#\this is two  demo\this is two  demo\obj\Debug\类型转换.csproj.SuggestedBindingRedirects.cache
+E:\C#\this is two  demo\this is two  demo\obj\Debug\类型转换.csproj.CoreCompileInputs.cache
+E:\C#\this is two  demo\this is two  demo\obj\Debug\this is two  demo.exe
+E:\C#\this is two  demo\this is two  demo\obj\Debug\this is two  demo.pdb

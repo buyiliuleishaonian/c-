@@ -1,0 +1,11 @@
+E:\C#\winform窗体\老师或者学生登入\bin\Debug\老师或者学生登入.exe.config
+E:\C#\winform窗体\老师或者学生登入\bin\Debug\老师或者学生登入.exe
+E:\C#\winform窗体\老师或者学生登入\bin\Debug\老师或者学生登入.pdb
+E:\C#\winform窗体\老师或者学生登入\obj\Debug\老师或者学生登入.csproj.AssemblyReference.cache
+E:\C#\winform窗体\老师或者学生登入\obj\Debug\老师或者学生登入.csproj.SuggestedBindingRedirects.cache
+E:\C#\winform窗体\老师或者学生登入\obj\Debug\老师或者学生登入.Form1.resources
+E:\C#\winform窗体\老师或者学生登入\obj\Debug\老师或者学生登入.Properties.Resources.resources
+E:\C#\winform窗体\老师或者学生登入\obj\Debug\老师或者学生登入.csproj.GenerateResource.cache
+E:\C#\winform窗体\老师或者学生登入\obj\Debug\老师或者学生登入.csproj.CoreCompileInputs.cache
+E:\C#\winform窗体\老师或者学生登入\obj\Debug\老师或者学生登入.exe
+E:\C#\winform窗体\老师或者学生登入\obj\Debug\老师或者学生登入.pdb

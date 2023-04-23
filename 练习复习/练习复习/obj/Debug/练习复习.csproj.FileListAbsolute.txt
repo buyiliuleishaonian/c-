@@ -1,0 +1,11 @@
+E:\C#\练习复习\练习复习\bin\Debug\练习复习.exe.config
+E:\C#\练习复习\练习复习\bin\Debug\练习复习.exe
+E:\C#\练习复习\练习复习\bin\Debug\练习复习.pdb
+E:\C#\练习复习\练习复习\obj\Debug\练习复习.csproj.AssemblyReference.cache
+E:\C#\练习复习\练习复习\obj\Debug\练习复习.csproj.SuggestedBindingRedirects.cache
+E:\C#\练习复习\练习复习\obj\Debug\练习复习.Form1.resources
+E:\C#\练习复习\练习复习\obj\Debug\练习复习.Properties.Resources.resources
+E:\C#\练习复习\练习复习\obj\Debug\练习复习.csproj.GenerateResource.cache
+E:\C#\练习复习\练习复习\obj\Debug\练习复习.csproj.CoreCompileInputs.cache
+E:\C#\练习复习\练习复习\obj\Debug\练习复习.exe
+E:\C#\练习复习\练习复习\obj\Debug\练习复习.pdb

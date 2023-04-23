@@ -1,0 +1,8 @@
+E:\C#\命名空间\new关键字\bin\Debug\new关键字.exe.config
+E:\C#\命名空间\new关键字\bin\Debug\new关键字.exe
+E:\C#\命名空间\new关键字\bin\Debug\new关键字.pdb
+E:\C#\命名空间\new关键字\obj\Debug\new关键字.csproj.AssemblyReference.cache
+E:\C#\命名空间\new关键字\obj\Debug\new关键字.csproj.SuggestedBindingRedirects.cache
+E:\C#\命名空间\new关键字\obj\Debug\new关键字.csproj.CoreCompileInputs.cache
+E:\C#\命名空间\new关键字\obj\Debug\new关键字.exe
+E:\C#\命名空间\new关键字\obj\Debug\new关键字.pdb

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象", "面向对象\面向对象.csproj", "{62BF1454-5C76-4BD5-A1D7-BF50726F2257}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象复习", "面向对象复习\面向对象复习.csproj", "{4AB27E08-319D-446B-8C28-6854D945227F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "静态和非静态的区博恩", "静态和非静态的区博恩\静态和非静态的区博恩.csproj", "{A9961ACB-B234-423D-B801-22A132006CEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "类的练习", "类的练习\类的练习.csproj", "{2569D2E2-5E8D-40D3-81B7-44A67CF56ECC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "复习", "复习\复习.csproj", "{36479BC6-821C-4D2D-AA6F-3161C4BA6652}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62BF1454-5C76-4BD5-A1D7-BF50726F2257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BF1454-5C76-4BD5-A1D7-BF50726F2257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BF1454-5C76-4BD5-A1D7-BF50726F2257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BF1454-5C76-4BD5-A1D7-BF50726F2257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AB27E08-319D-446B-8C28-6854D945227F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB27E08-319D-446B-8C28-6854D945227F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB27E08-319D-446B-8C28-6854D945227F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB27E08-319D-446B-8C28-6854D945227F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9961ACB-B234-423D-B801-22A132006CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9961ACB-B234-423D-B801-22A132006CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9961ACB-B234-423D-B801-22A132006CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9961ACB-B234-423D-B801-22A132006CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2569D2E2-5E8D-40D3-81B7-44A67CF56ECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2569D2E2-5E8D-40D3-81B7-44A67CF56ECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2569D2E2-5E8D-40D3-81B7-44A67CF56ECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2569D2E2-5E8D-40D3-81B7-44A67CF56ECC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36479BC6-821C-4D2D-AA6F-3161C4BA6652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36479BC6-821C-4D2D-AA6F-3161C4BA6652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36479BC6-821C-4D2D-AA6F-3161C4BA6652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36479BC6-821C-4D2D-AA6F-3161C4BA6652}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F217D9AE-3573-4827-A044-69F762316731}
+	EndGlobalSection
+EndGlobal

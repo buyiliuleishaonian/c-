@@ -1,0 +1,11 @@
+E:\C#\directory类\directory类\bin\Debug\directory类.exe.config
+E:\C#\directory类\directory类\bin\Debug\directory类.exe
+E:\C#\directory类\directory类\bin\Debug\directory类.pdb
+E:\C#\directory类\directory类\obj\Debug\directory类.csproj.AssemblyReference.cache
+E:\C#\directory类\directory类\obj\Debug\directory类.csproj.SuggestedBindingRedirects.cache
+E:\C#\directory类\directory类\obj\Debug\directory类.Form1.resources
+E:\C#\directory类\directory类\obj\Debug\directory类.Properties.Resources.resources
+E:\C#\directory类\directory类\obj\Debug\directory类.csproj.GenerateResource.cache
+E:\C#\directory类\directory类\obj\Debug\directory类.csproj.CoreCompileInputs.cache
+E:\C#\directory类\directory类\obj\Debug\directory类.exe
+E:\C#\directory类\directory类\obj\Debug\directory类.pdb

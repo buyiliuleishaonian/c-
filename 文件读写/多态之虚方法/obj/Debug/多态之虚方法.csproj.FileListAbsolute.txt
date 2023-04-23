@@ -1,0 +1,8 @@
+E:\C#\文件读写\多态之虚方法\bin\Debug\多态之虚方法.exe.config
+E:\C#\文件读写\多态之虚方法\bin\Debug\多态之虚方法.exe
+E:\C#\文件读写\多态之虚方法\bin\Debug\多态之虚方法.pdb
+E:\C#\文件读写\多态之虚方法\obj\Debug\多态之虚方法.csproj.AssemblyReference.cache
+E:\C#\文件读写\多态之虚方法\obj\Debug\多态之虚方法.csproj.SuggestedBindingRedirects.cache
+E:\C#\文件读写\多态之虚方法\obj\Debug\多态之虚方法.csproj.CoreCompileInputs.cache
+E:\C#\文件读写\多态之虚方法\obj\Debug\多态之虚方法.exe
+E:\C#\文件读写\多态之虚方法\obj\Debug\多态之虚方法.pdb

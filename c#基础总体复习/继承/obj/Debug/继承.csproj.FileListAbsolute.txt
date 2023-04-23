@@ -1,0 +1,8 @@
+E:\C#\c#基础总体复习\继承\bin\Debug\继承.exe.config
+E:\C#\c#基础总体复习\继承\bin\Debug\继承.exe
+E:\C#\c#基础总体复习\继承\bin\Debug\继承.pdb
+E:\C#\c#基础总体复习\继承\obj\Debug\继承.csproj.AssemblyReference.cache
+E:\C#\c#基础总体复习\继承\obj\Debug\继承.csproj.SuggestedBindingRedirects.cache
+E:\C#\c#基础总体复习\继承\obj\Debug\继承.csproj.CoreCompileInputs.cache
+E:\C#\c#基础总体复习\继承\obj\Debug\继承.exe
+E:\C#\c#基础总体复习\继承\obj\Debug\继承.pdb

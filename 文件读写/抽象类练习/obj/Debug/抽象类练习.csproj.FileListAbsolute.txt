@@ -1,0 +1,8 @@
+E:\C#\文件读写\抽象类练习\bin\Debug\抽象类练习.exe.config
+E:\C#\文件读写\抽象类练习\bin\Debug\抽象类练习.exe
+E:\C#\文件读写\抽象类练习\bin\Debug\抽象类练习.pdb
+E:\C#\文件读写\抽象类练习\obj\Debug\抽象类练习.csproj.AssemblyReference.cache
+E:\C#\文件读写\抽象类练习\obj\Debug\抽象类练习.csproj.SuggestedBindingRedirects.cache
+E:\C#\文件读写\抽象类练习\obj\Debug\抽象类练习.csproj.CoreCompileInputs.cache
+E:\C#\文件读写\抽象类练习\obj\Debug\抽象类练习.exe
+E:\C#\文件读写\抽象类练习\obj\Debug\抽象类练习.pdb

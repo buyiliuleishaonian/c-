@@ -1,0 +1,8 @@
+E:\C#\c#基础总体复习\多态\bin\Debug\多态.exe.config
+E:\C#\c#基础总体复习\多态\bin\Debug\多态.exe
+E:\C#\c#基础总体复习\多态\bin\Debug\多态.pdb
+E:\C#\c#基础总体复习\多态\obj\Debug\多态.csproj.AssemblyReference.cache
+E:\C#\c#基础总体复习\多态\obj\Debug\多态.csproj.SuggestedBindingRedirects.cache
+E:\C#\c#基础总体复习\多态\obj\Debug\多态.csproj.CoreCompileInputs.cache
+E:\C#\c#基础总体复习\多态\obj\Debug\多态.exe
+E:\C#\c#基础总体复习\多态\obj\Debug\多态.pdb

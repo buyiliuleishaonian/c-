@@ -1,0 +1,8 @@
+E:\C#\文件读写\拆箱和装箱\bin\Debug\拆箱和装箱.exe.config
+E:\C#\文件读写\拆箱和装箱\bin\Debug\拆箱和装箱.exe
+E:\C#\文件读写\拆箱和装箱\bin\Debug\拆箱和装箱.pdb
+E:\C#\文件读写\拆箱和装箱\obj\Debug\拆箱和装箱.csproj.AssemblyReference.cache
+E:\C#\文件读写\拆箱和装箱\obj\Debug\拆箱和装箱.csproj.SuggestedBindingRedirects.cache
+E:\C#\文件读写\拆箱和装箱\obj\Debug\拆箱和装箱.csproj.CoreCompileInputs.cache
+E:\C#\文件读写\拆箱和装箱\obj\Debug\拆箱和装箱.exe
+E:\C#\文件读写\拆箱和装箱\obj\Debug\拆箱和装箱.pdb

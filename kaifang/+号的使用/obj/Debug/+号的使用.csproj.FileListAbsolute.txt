@@ -1,0 +1,8 @@
+E:\C#\kaifang\+号的使用\bin\Debug\+号的使用.exe.config
+E:\C#\kaifang\+号的使用\bin\Debug\+号的使用.exe
+E:\C#\kaifang\+号的使用\bin\Debug\+号的使用.pdb
+E:\C#\kaifang\+号的使用\obj\Debug\+号的使用.csproj.AssemblyReference.cache
+E:\C#\kaifang\+号的使用\obj\Debug\+号的使用.csproj.SuggestedBindingRedirects.cache
+E:\C#\kaifang\+号的使用\obj\Debug\+号的使用.csproj.CoreCompileInputs.cache
+E:\C#\kaifang\+号的使用\obj\Debug\+号的使用.exe
+E:\C#\kaifang\+号的使用\obj\Debug\+号的使用.pdb

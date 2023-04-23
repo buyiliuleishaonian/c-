@@ -1,0 +1,8 @@
+E:\C#\c#基础总体复习\序列化和反序列化\obj\Debug\序列化和反序列化.csproj.AssemblyReference.cache
+E:\C#\c#基础总体复习\序列化和反序列化\obj\Debug\序列化和反序列化.csproj.SuggestedBindingRedirects.cache
+E:\C#\c#基础总体复习\序列化和反序列化\obj\Debug\序列化和反序列化.csproj.CoreCompileInputs.cache
+E:\C#\c#基础总体复习\序列化和反序列化\bin\Debug\序列化和反序列化.exe.config
+E:\C#\c#基础总体复习\序列化和反序列化\bin\Debug\序列化和反序列化.exe
+E:\C#\c#基础总体复习\序列化和反序列化\bin\Debug\序列化和反序列化.pdb
+E:\C#\c#基础总体复习\序列化和反序列化\obj\Debug\序列化和反序列化.exe
+E:\C#\c#基础总体复习\序列化和反序列化\obj\Debug\序列化和反序列化.pdb

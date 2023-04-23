@@ -1,0 +1,8 @@
+E:\C#\练习1-3\练习9\bin\Debug\练习9.exe.config
+E:\C#\练习1-3\练习9\bin\Debug\练习9.exe
+E:\C#\练习1-3\练习9\bin\Debug\练习9.pdb
+E:\C#\练习1-3\练习9\obj\Debug\练习9.csproj.AssemblyReference.cache
+E:\C#\练习1-3\练习9\obj\Debug\练习9.csproj.SuggestedBindingRedirects.cache
+E:\C#\练习1-3\练习9\obj\Debug\练习9.csproj.CoreCompileInputs.cache
+E:\C#\练习1-3\练习9\obj\Debug\练习9.exe
+E:\C#\练习1-3\练习9\obj\Debug\练习9.pdb

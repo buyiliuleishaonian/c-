@@ -1,0 +1,8 @@
+E:\C#\文件读写\filestream复制一个媒体文件\bin\Debug\filestream复制一个媒体文件.exe.config
+E:\C#\文件读写\filestream复制一个媒体文件\bin\Debug\filestream复制一个媒体文件.exe
+E:\C#\文件读写\filestream复制一个媒体文件\bin\Debug\filestream复制一个媒体文件.pdb
+E:\C#\文件读写\filestream复制一个媒体文件\obj\Debug\filestream复制一个媒体文件.csproj.AssemblyReference.cache
+E:\C#\文件读写\filestream复制一个媒体文件\obj\Debug\filestream复制一个媒体文件.csproj.SuggestedBindingRedirects.cache
+E:\C#\文件读写\filestream复制一个媒体文件\obj\Debug\filestream复制一个媒体文件.csproj.CoreCompileInputs.cache
+E:\C#\文件读写\filestream复制一个媒体文件\obj\Debug\filestream复制一个媒体文件.exe
+E:\C#\文件读写\filestream复制一个媒体文件\obj\Debug\filestream复制一个媒体文件.pdb

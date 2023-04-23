@@ -1,0 +1,8 @@
+E:\C#\文件读写\泛型集合联系\bin\Debug\泛型集合联系.exe.config
+E:\C#\文件读写\泛型集合联系\bin\Debug\泛型集合联系.exe
+E:\C#\文件读写\泛型集合联系\bin\Debug\泛型集合联系.pdb
+E:\C#\文件读写\泛型集合联系\obj\Debug\泛型集合联系.csproj.AssemblyReference.cache
+E:\C#\文件读写\泛型集合联系\obj\Debug\泛型集合联系.csproj.SuggestedBindingRedirects.cache
+E:\C#\文件读写\泛型集合联系\obj\Debug\泛型集合联系.csproj.CoreCompileInputs.cache
+E:\C#\文件读写\泛型集合联系\obj\Debug\泛型集合联系.exe
+E:\C#\文件读写\泛型集合联系\obj\Debug\泛型集合联系.pdb

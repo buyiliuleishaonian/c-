@@ -1,0 +1,16 @@
+E:\C#\c#基础总体复习\播放器\bin\Debug\播放器.exe.config
+E:\C#\c#基础总体复习\播放器\bin\Debug\播放器.exe
+E:\C#\c#基础总体复习\播放器\bin\Debug\播放器.pdb
+E:\C#\c#基础总体复习\播放器\bin\Debug\Interop.WMPLib.dll
+E:\C#\c#基础总体复习\播放器\bin\Debug\AxInterop.WMPLib.dll
+E:\C#\c#基础总体复习\播放器\obj\Debug\播放器.csproj.AssemblyReference.cache
+E:\C#\c#基础总体复习\播放器\obj\Debug\播放器.csproj.SuggestedBindingRedirects.cache
+E:\C#\c#基础总体复习\播放器\obj\Debug\Interop.WMPLib.dll
+E:\C#\c#基础总体复习\播放器\obj\Debug\AxInterop.WMPLib.dll
+E:\C#\c#基础总体复习\播放器\obj\Debug\播放器.csproj.ResolveComReference.cache
+E:\C#\c#基础总体复习\播放器\obj\Debug\播放器.Form1.resources
+E:\C#\c#基础总体复习\播放器\obj\Debug\播放器.Properties.Resources.resources
+E:\C#\c#基础总体复习\播放器\obj\Debug\播放器.csproj.GenerateResource.cache
+E:\C#\c#基础总体复习\播放器\obj\Debug\播放器.csproj.CoreCompileInputs.cache
+E:\C#\c#基础总体复习\播放器\obj\Debug\播放器.exe
+E:\C#\c#基础总体复习\播放器\obj\Debug\播放器.pdb

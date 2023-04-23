@@ -1,0 +1,8 @@
+E:\C#\This is my demo\bin\Debug\This is my demo.exe.config
+E:\C#\This is my demo\bin\Debug\This is my demo.exe
+E:\C#\This is my demo\bin\Debug\This is my demo.pdb
+E:\C#\This is my demo\obj\Debug\This is my demo.csproj.AssemblyReference.cache
+E:\C#\This is my demo\obj\Debug\This is my demo.csproj.SuggestedBindingRedirects.cache
+E:\C#\This is my demo\obj\Debug\This is my demo.csproj.CoreCompileInputs.cache
+E:\C#\This is my demo\obj\Debug\This is my demo.exe
+E:\C#\This is my demo\obj\Debug\This is my demo.pdb

@@ -1,0 +1,8 @@
+E:\C#\this is   my  6  demo\ref参数\bin\Debug\ref参数.exe.config
+E:\C#\this is   my  6  demo\ref参数\bin\Debug\ref参数.exe
+E:\C#\this is   my  6  demo\ref参数\bin\Debug\ref参数.pdb
+E:\C#\this is   my  6  demo\ref参数\obj\Debug\ref参数.csproj.AssemblyReference.cache
+E:\C#\this is   my  6  demo\ref参数\obj\Debug\ref参数.csproj.SuggestedBindingRedirects.cache
+E:\C#\this is   my  6  demo\ref参数\obj\Debug\ref参数.csproj.CoreCompileInputs.cache
+E:\C#\this is   my  6  demo\ref参数\obj\Debug\ref参数.exe
+E:\C#\this is   my  6  demo\ref参数\obj\Debug\ref参数.pdb

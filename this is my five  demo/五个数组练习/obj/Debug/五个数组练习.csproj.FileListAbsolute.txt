@@ -1,0 +1,8 @@
+E:\C#\this is my five  demo\五个数组练习\obj\Debug\五个数组练习.csproj.AssemblyReference.cache
+E:\C#\this is my five  demo\五个数组练习\obj\Debug\五个数组练习.csproj.SuggestedBindingRedirects.cache
+E:\C#\this is my five  demo\五个数组练习\obj\Debug\五个数组练习.csproj.CoreCompileInputs.cache
+E:\C#\this is my five  demo\五个数组练习\bin\Debug\五个数组练习.exe.config
+E:\C#\this is my five  demo\五个数组练习\bin\Debug\五个数组练习.exe
+E:\C#\this is my five  demo\五个数组练习\bin\Debug\五个数组练习.pdb
+E:\C#\this is my five  demo\五个数组练习\obj\Debug\五个数组练习.exe
+E:\C#\this is my five  demo\五个数组练习\obj\Debug\五个数组练习.pdb

@@ -1,0 +1,11 @@
+E:\C#\directory类\石头剪刀布\bin\Debug\石头剪刀布.exe.config
+E:\C#\directory类\石头剪刀布\bin\Debug\石头剪刀布.exe
+E:\C#\directory类\石头剪刀布\bin\Debug\石头剪刀布.pdb
+E:\C#\directory类\石头剪刀布\obj\Debug\石头剪刀布.csproj.AssemblyReference.cache
+E:\C#\directory类\石头剪刀布\obj\Debug\石头剪刀布.csproj.SuggestedBindingRedirects.cache
+E:\C#\directory类\石头剪刀布\obj\Debug\石头剪刀布.Form1.resources
+E:\C#\directory类\石头剪刀布\obj\Debug\石头剪刀布.Properties.Resources.resources
+E:\C#\directory类\石头剪刀布\obj\Debug\石头剪刀布.csproj.GenerateResource.cache
+E:\C#\directory类\石头剪刀布\obj\Debug\石头剪刀布.csproj.CoreCompileInputs.cache
+E:\C#\directory类\石头剪刀布\obj\Debug\石头剪刀布.exe
+E:\C#\directory类\石头剪刀布\obj\Debug\石头剪刀布.pdb

@@ -1,0 +1,11 @@
+E:\C#\directory类\Panel容器\bin\Debug\Panel容器.exe.config
+E:\C#\directory类\Panel容器\bin\Debug\Panel容器.exe
+E:\C#\directory类\Panel容器\bin\Debug\Panel容器.pdb
+E:\C#\directory类\Panel容器\obj\Debug\Panel容器.csproj.AssemblyReference.cache
+E:\C#\directory类\Panel容器\obj\Debug\Panel容器.csproj.SuggestedBindingRedirects.cache
+E:\C#\directory类\Panel容器\obj\Debug\Panel容器.Form1.resources
+E:\C#\directory类\Panel容器\obj\Debug\Panel容器.Properties.Resources.resources
+E:\C#\directory类\Panel容器\obj\Debug\Panel容器.csproj.GenerateResource.cache
+E:\C#\directory类\Panel容器\obj\Debug\Panel容器.csproj.CoreCompileInputs.cache
+E:\C#\directory类\Panel容器\obj\Debug\Panel容器.exe
+E:\C#\directory类\Panel容器\obj\Debug\Panel容器.pdb

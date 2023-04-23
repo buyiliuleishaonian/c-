@@ -1,0 +1,8 @@
+E:\C#\超市收银系统\超市收银系统\bin\Debug\超市收银系统.exe.config
+E:\C#\超市收银系统\超市收银系统\bin\Debug\超市收银系统.exe
+E:\C#\超市收银系统\超市收银系统\bin\Debug\超市收银系统.pdb
+E:\C#\超市收银系统\超市收银系统\obj\Debug\超市收银系统.csproj.AssemblyReference.cache
+E:\C#\超市收银系统\超市收银系统\obj\Debug\超市收银系统.csproj.SuggestedBindingRedirects.cache
+E:\C#\超市收银系统\超市收银系统\obj\Debug\超市收银系统.csproj.CoreCompileInputs.cache
+E:\C#\超市收银系统\超市收银系统\obj\Debug\超市收银系统.exe
+E:\C#\超市收银系统\超市收银系统\obj\Debug\超市收银系统.pdb

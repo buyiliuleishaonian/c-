@@ -1,0 +1,8 @@
+E:\C#\里氏转换语法和练习\file类\bin\Debug\file类.exe.config
+E:\C#\里氏转换语法和练习\file类\bin\Debug\file类.exe
+E:\C#\里氏转换语法和练习\file类\bin\Debug\file类.pdb
+E:\C#\里氏转换语法和练习\file类\obj\Debug\file类.csproj.AssemblyReference.cache
+E:\C#\里氏转换语法和练习\file类\obj\Debug\file类.csproj.SuggestedBindingRedirects.cache
+E:\C#\里氏转换语法和练习\file类\obj\Debug\file类.csproj.CoreCompileInputs.cache
+E:\C#\里氏转换语法和练习\file类\obj\Debug\file类.exe
+E:\C#\里氏转换语法和练习\file类\obj\Debug\file类.pdb

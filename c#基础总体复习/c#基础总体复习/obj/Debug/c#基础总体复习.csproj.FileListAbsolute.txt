@@ -1,0 +1,8 @@
+E:\C#\c#基础总体复习\c#基础总体复习\obj\Debug\c#基础总体复习.csproj.AssemblyReference.cache
+E:\C#\c#基础总体复习\c#基础总体复习\obj\Debug\c#基础总体复习.csproj.SuggestedBindingRedirects.cache
+E:\C#\c#基础总体复习\c#基础总体复习\obj\Debug\c#基础总体复习.csproj.CoreCompileInputs.cache
+E:\C#\c#基础总体复习\c#基础总体复习\bin\Debug\c#基础总体复习.exe.config
+E:\C#\c#基础总体复习\c#基础总体复习\bin\Debug\c#基础总体复习.exe
+E:\C#\c#基础总体复习\c#基础总体复习\bin\Debug\c#基础总体复习.pdb
+E:\C#\c#基础总体复习\c#基础总体复习\obj\Debug\c#基础总体复习.exe
+E:\C#\c#基础总体复习\c#基础总体复习\obj\Debug\c#基础总体复习.pdb

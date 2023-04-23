@@ -1,0 +1,8 @@
+E:\C#\this is   my  6  demo\方法练习4\bin\Debug\方法练习4.exe.config
+E:\C#\this is   my  6  demo\方法练习4\bin\Debug\方法练习4.exe
+E:\C#\this is   my  6  demo\方法练习4\bin\Debug\方法练习4.pdb
+E:\C#\this is   my  6  demo\方法练习4\obj\Debug\方法练习4.csproj.AssemblyReference.cache
+E:\C#\this is   my  6  demo\方法练习4\obj\Debug\方法练习4.csproj.SuggestedBindingRedirects.cache
+E:\C#\this is   my  6  demo\方法练习4\obj\Debug\方法练习4.csproj.CoreCompileInputs.cache
+E:\C#\this is   my  6  demo\方法练习4\obj\Debug\方法练习4.exe
+E:\C#\this is   my  6  demo\方法练习4\obj\Debug\方法练习4.pdb

@@ -1,0 +1,11 @@
+E:\C#\winform窗体\winform窗体练习\bin\Debug\winform窗体练习.exe.config
+E:\C#\winform窗体\winform窗体练习\bin\Debug\winform窗体练习.exe
+E:\C#\winform窗体\winform窗体练习\bin\Debug\winform窗体练习.pdb
+E:\C#\winform窗体\winform窗体练习\obj\Debug\winform窗体练习.csproj.AssemblyReference.cache
+E:\C#\winform窗体\winform窗体练习\obj\Debug\winform窗体练习.csproj.SuggestedBindingRedirects.cache
+E:\C#\winform窗体\winform窗体练习\obj\Debug\winform窗体练习.Form1.resources
+E:\C#\winform窗体\winform窗体练习\obj\Debug\winform窗体练习.Properties.Resources.resources
+E:\C#\winform窗体\winform窗体练习\obj\Debug\winform窗体练习.csproj.GenerateResource.cache
+E:\C#\winform窗体\winform窗体练习\obj\Debug\winform窗体练习.csproj.CoreCompileInputs.cache
+E:\C#\winform窗体\winform窗体练习\obj\Debug\winform窗体练习.exe
+E:\C#\winform窗体\winform窗体练习\obj\Debug\winform窗体练习.pdb

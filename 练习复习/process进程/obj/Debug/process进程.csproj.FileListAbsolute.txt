@@ -1,0 +1,8 @@
+E:\C#\练习复习\process进程\bin\Debug\process进程.exe.config
+E:\C#\练习复习\process进程\bin\Debug\process进程.exe
+E:\C#\练习复习\process进程\bin\Debug\process进程.pdb
+E:\C#\练习复习\process进程\obj\Debug\process进程.csproj.AssemblyReference.cache
+E:\C#\练习复习\process进程\obj\Debug\process进程.csproj.SuggestedBindingRedirects.cache
+E:\C#\练习复习\process进程\obj\Debug\process进程.csproj.CoreCompileInputs.cache
+E:\C#\练习复习\process进程\obj\Debug\process进程.exe
+E:\C#\练习复习\process进程\obj\Debug\process进程.pdb

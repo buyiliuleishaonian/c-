@@ -1,0 +1,15 @@
+E:\C#\0105.NET\bin\Debug\net6.0\0105.NET.exe
+E:\C#\0105.NET\bin\Debug\net6.0\0105.NET.deps.json
+E:\C#\0105.NET\bin\Debug\net6.0\0105.NET.runtimeconfig.json
+E:\C#\0105.NET\bin\Debug\net6.0\0105.NET.dll
+E:\C#\0105.NET\bin\Debug\net6.0\0105.NET.pdb
+E:\C#\0105.NET\obj\Debug\net6.0\0105.NET.csproj.AssemblyReference.cache
+E:\C#\0105.NET\obj\Debug\net6.0\0105.NET.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\0105.NET\obj\Debug\net6.0\0105.NET.AssemblyInfoInputs.cache
+E:\C#\0105.NET\obj\Debug\net6.0\0105.NET.AssemblyInfo.cs
+E:\C#\0105.NET\obj\Debug\net6.0\0105.NET.csproj.CoreCompileInputs.cache
+E:\C#\0105.NET\obj\Debug\net6.0\0105.NET.dll
+E:\C#\0105.NET\obj\Debug\net6.0\refint\0105.NET.dll
+E:\C#\0105.NET\obj\Debug\net6.0\0105.NET.pdb
+E:\C#\0105.NET\obj\Debug\net6.0\0105.NET.genruntimeconfig.cache
+E:\C#\0105.NET\obj\Debug\net6.0\ref\0105.NET.dll

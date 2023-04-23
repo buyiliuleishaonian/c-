@@ -1,0 +1,8 @@
+E:\C#\kaifang\交换变量\bin\Debug\交换变量.exe.config
+E:\C#\kaifang\交换变量\bin\Debug\交换变量.exe
+E:\C#\kaifang\交换变量\bin\Debug\交换变量.pdb
+E:\C#\kaifang\交换变量\obj\Debug\交换变量.csproj.AssemblyReference.cache
+E:\C#\kaifang\交换变量\obj\Debug\交换变量.csproj.SuggestedBindingRedirects.cache
+E:\C#\kaifang\交换变量\obj\Debug\交换变量.csproj.CoreCompileInputs.cache
+E:\C#\kaifang\交换变量\obj\Debug\交换变量.exe
+E:\C#\kaifang\交换变量\obj\Debug\交换变量.pdb
