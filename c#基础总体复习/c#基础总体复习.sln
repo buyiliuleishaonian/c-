@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "接口", "接口\接口.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "面向对象练习", "面向对象练习\面向对象练习.csproj", "{C62F399E-9A17-4892-9795-28B31441295B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "集合", "集合\集合.csproj", "{38D1A0C4-6D53-40EF-BADE-412E24F20570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "集合练习", "集合练习\集合练习.csproj", "{E65BB6EC-51C7-4244-A17E-93A3AB9E3923}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{C62F399E-9A17-4892-9795-28B31441295B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C62F399E-9A17-4892-9795-28B31441295B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C62F399E-9A17-4892-9795-28B31441295B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38D1A0C4-6D53-40EF-BADE-412E24F20570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D1A0C4-6D53-40EF-BADE-412E24F20570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D1A0C4-6D53-40EF-BADE-412E24F20570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D1A0C4-6D53-40EF-BADE-412E24F20570}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E65BB6EC-51C7-4244-A17E-93A3AB9E3923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E65BB6EC-51C7-4244-A17E-93A3AB9E3923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E65BB6EC-51C7-4244-A17E-93A3AB9E3923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E65BB6EC-51C7-4244-A17E-93A3AB9E3923}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

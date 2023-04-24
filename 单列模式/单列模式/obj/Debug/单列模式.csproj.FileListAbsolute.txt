@@ -1,0 +1,12 @@
+E:\C#\单列模式\单列模式\obj\Debug\单列模式.csproj.AssemblyReference.cache
+E:\C#\单列模式\单列模式\obj\Debug\单列模式.csproj.SuggestedBindingRedirects.cache
+E:\C#\单列模式\单列模式\obj\Debug\单列模式.Form1.resources
+E:\C#\单列模式\单列模式\obj\Debug\单列模式.Form2.resources
+E:\C#\单列模式\单列模式\obj\Debug\单列模式.Properties.Resources.resources
+E:\C#\单列模式\单列模式\obj\Debug\单列模式.csproj.GenerateResource.cache
+E:\C#\单列模式\单列模式\obj\Debug\单列模式.csproj.CoreCompileInputs.cache
+E:\C#\单列模式\单列模式\bin\Debug\单列模式.exe.config
+E:\C#\单列模式\单列模式\bin\Debug\单列模式.exe
+E:\C#\单列模式\单列模式\bin\Debug\单列模式.pdb
+E:\C#\单列模式\单列模式\obj\Debug\单列模式.exe
+E:\C#\单列模式\单列模式\obj\Debug\单列模式.pdb

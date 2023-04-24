@@ -12,7 +12,7 @@ namespace 面向对象练习
         { get; set; }
         public string Bland
         { get; set; }
-        public virtual void Run()
+        public  void Run()
         {
             Console.WriteLine("可以跑80码");
         }

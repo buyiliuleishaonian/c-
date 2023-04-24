@@ -8,10 +8,6 @@ namespace 面向对象练习
 {
     public  class Car:Vehicle
     {
-        public override void Run()
-        {
-            
-        }
         public int Person
         {
             get;

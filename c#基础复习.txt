@@ -1,0 +1,256 @@
+1、注释符，单行注释//；多行注释/*注释内容*/；对于文档和方法而言///
+在html中<!--注释内容-->
+在css中是/*注释内容*/
+
+2、两种命名规范：
+一种camel（骆驼命名规范）首单词的首字母小写，其余单词首字母大写：变量，字段，
+常量，int，string，char，double，decimal（表示钱）,(listarray,hashtable,list,dictionary,集合)
+给类或者方法命名：pascal：所有单词首字母大写：方法名：只做一件事
+
+3、面向对象
+1、封装、继承、多态
+***字段：存储数据，访问修饰符应该设置为private
+***属性：用来保护字段，对其输入和输出进行限制
+***new关键字：1、在堆中开辟空间，2、创建对象，3、调用构造函数，4、隐藏从父类哪里继承过来的成员
+***this关键字：1、代表当前类的对象，2、显示调用类中的构造函数
+***构造函数：就是对对象进行初始化
+***对字段的保护
+1、属性get（）
+2、属性set（）
+3、在构造函数中限制
+***return
+1、结束当前的方法
+2、返回方法中要返回的值
+
+
+4、继承
+解决代码的冗余，实现多态，增加代码的可扩展性
+1、单根性
+2、传递性
+子类并没有继承父类的构造函数，如果想要调用父类的构造函数，第一种就是在父类在写一个无参的构造函数
+第二种就是子类的构造函数后面用关键字base来调用父类的构造函数。子类只能继承一个父类，那么子类除了可以使用自己的成员外
+还可以使用从父类哪里继承过来的属性和方法，但是父类只能使用自己本身的成员，而不能使用子类的成员
+子类之间也不可以互相使用对方的成员。
+
+
+5、里氏转换
+1、子类可以赋值给父类
+2、如果父类中装的子类对象，可以将这个父类强转为子类
+转换关键字：is，as
+is返回值是一个bool类型
+as返回值失败是null，转换成功返回值
+
+6、多态
+虚方法virtual，抽象类abstract，接口
+虚方法 virtual，需要将父类的方法，用virtual来标记，继承这个父类的子类，对应的方法需要用override标记
+抽象类abstract
+
+7、path类，file类，directory类
+path类：
+只对字符串起作用，不用刻意记，我们的到是文件路径，得到文件名
+这些得到的都是字符串，不对文件本身起作用。
+自录和文件操作的命名控件System.IO
+string ChangeExtension(string path, string extension)(*)
+·修改文件的后缀，“修改"支持字符串层面的，没有真的给文件改名
+. string s = Path.ChangeExtension(@"C:ltemplF3.png", "jpg"")string Combine(string path1, string path2)
+·将两个路径合成一个路径，比用+好，可以方便解决不加斜线的问题，自动处理路径芬隔符的问题
+. string s = Path.Combine(@"c:ltemp","a.jpg")string GetDirectoryName(string path) (*)
+·得到文件的路径名。Path.GetDirectoryName(@"c:ltempla.jpg")
+string GetExtension(string path)得到文件的扩展名
+string GetFileName(string path)得到文件路径的文件名部分
+string GetFileNameWithoutExtension(string path)得到去除扩展名的文件名
+string GetFullPath(string path)得到文件的全路径。可以根据相对路径获得绝对路径。
+
+
+file类：
+操作文件，创建，复制，剪切，移除，create，copy，move，delete
+对文件读取，写入。
+文件读取，是一下读取文件的所有内容，需要解码
+file.readallbytes:读取为字节数组
+file.readalllines:一行行读取，也方便对精准的一行修改，读取为字符串数组
+file.readalltext:读取文本，读取为字符串
+文件写入
+file.writeallbytes:写入字节数组
+file.writealllines:写入字符串数组
+file.writealltext:写入字符串数
+file.appendalltext，file.appendallline：表明为追加，分别为追加字符串数组，字符串。
+
+
+
+directory：文件夹
+创建，删除（不能删除非空的文件夹），剪切文件夹
+directory.create:创建文件夹
+directory.delete:删除文件夹
+directory.move:剪切文件夹
+directory.getfile:读取文件夹下所有文件的全路径
+
+
+8、文件流,filestrema,streamreader,streamwriter;
+using (FileStream filename=new FileStream(@"D:\桌面\c#基础复习.txt",FileMode.OpenOrCreate,FileAccess.Read))
+            {
+                byte[] buffer = new byte[1024 * 1024 * 5];
+                int number=filename.Read(buffer,0,buffer.Length);
+                string s = Encoding.UTF8.GetString(buffer,0,number);
+                Console.WriteLine(s);
+            }
+            using (FileStream readfile=new FileStream(@"D:\桌面\1.txt",FileMode.OpenOrCreate,FileAccess.Write))
+            {
+                string s = "今天天气好晴朗，处处好风光";
+                byte[] buffer = Encoding.UTF8.GetBytes(s);
+                readfile.Write(buffer,0,buffer.Length);
+                Console.WriteLine("ok");
+            }
+                Console.ReadKey();
+				using (StreamReader s=new StreamReader(@"D:\桌面\c#基础复习.txt",Encoding.UTF8))
+            {
+                while (!s.EndOfStream)
+                {
+                    Console.WriteLine(s.ReadLine());
+                }
+            }
+            byte[] buffer = new byte[1024*1024*5];
+            using (StreamWriter sw=new StreamWriter(@"D:\桌面\2.txt",true,Encoding.UTF8,buffer.Length))
+            {
+                sw.Write("今天天气好晴朗，处处好风光");
+            }
+            Console.ReadKey();
+
+
+9、序列化和反序列化
+Person p = new Person("文憔悴",'男',22);
+            using (FileStream fs=new FileStream(@"D:\桌面\1.txt",FileMode.OpenOrCreate,FileAccess.Write))
+            {
+                BinaryFormatter bt = new BinaryFormatter();
+                bt.Serialize(fs,p);
+            }
+            Console.WriteLine("序列化成功");
+            Person p1 = null;
+            using (FileStream fr=new FileStream(@"D:\桌面\1.txt",FileMode.OpenOrCreate,FileAccess.Read))
+            {
+                BinaryFormatter buffer = new BinaryFormatter();
+                p1= (Person)buffer.Deserialize(fr);
+            }
+            Console.WriteLine(p1.Name);
+            Console.ReadKey();
+
+
+
+10、类和对象
+类：类是模子，确定对象将会拥有的特征和行为。
+对象是一个你能够看见，摸得着的，万物皆对象
+
+11、访问修饰符
+public:公共的，公开的
+prvate：私有的;只能在当前类中访问，当前类不加访问修饰符，就默认为private
+internal：只能在当前项目中访问
+protected：当前类的内部访问，其继承的子类内中访问
+internal protected：
+能够修饰类的只能是，internal和public
+
+12、常用的关键字
+this:当前类的对象，调用自己的构造函数
+base:调用父类的构造函数
+new：1、在堆中开辟空间，2、创建对象，3、调用构造函数，4、隐藏从父类哪里继承过来的成员
+virtual：虚方法，修饰当前父类的对象
+abstract：抽象的，需要修饰父类和父类的方法
+override：重写，将继承过来的方法用override来标记
+interface：来标记接口
+partial:部分类
+sealed:密封类
+return：放回方法的需要返回的值，结束方法
+break:跳出循环，结束当次循环
+continue:回到判断条件，true接着循环，false结束循环，在for循环面，先执行x++，之后再判断
+static:静态的
+enum:枚举
+struct:结构
+const:常量
+
+
+
+
+接口：
+1.接口中只能包含方法（属性、事件、索引器也都是方法）。
+2.接口中的成员都不能有任何实现。光说不做
+3.接口不能被实例化。
+4.接口中的成员不能有任何访问修饰符。（默认为public)·
+5.实现接口的子类必须将接口中的所有成员全都实现。
+6.子类实现接口的方法时，不需要任何关键字，直接实现即可。
+7.接口存在的意义就是为了多态。
+
+虚方法和抽象类：
+关于虚方法注以下几点
+1.父类中如果有方法需要让子类重写，则可以将该方法标记为virtual
+2.虚方法在父类中必须有实现，哪怕是空实现。
+3虚方法子类可以重写( override )，也可以不重写
+关于抽象方法注意的几点:
+1.需要用abstract关键字标记
+2.抽象方法不能有任何方法实现。3.抽象成员必须包含在抽象类中。
+4.由于抽象成员没有任何实现，所以子类必须将抽象成员重写。
+5.抽象类不能实例化，抽象类的作用:抽象类的作用就是为了让子类继承。
+6.抽象类中可以包括抽象成员，可以包括有具体代码的成员。
++7.还有抽象方法不能用static修饰
+
+
+13、字符串的11中方法：
+1、字符串的不可不变性，字符串存储在堆中的空间，
+将字符串更改之后，是不会让堆中位置不消失，会重新开辟空间，存储更改之后的值。
+2、IsnullorEmpty：静态方法，判断是空还是null，string.IsnullorEmpty.
+3、ToCharArray（），非静态方法，将字符串转换成字节数组。
+4、Toupper：非静态方法，将字符串中大写字母转为小写
+5、Tolower：非静态方法，将字符串中小写字母转为大写
+6、Equals：比较两个字符串是否相同，非静态方法
+7、Split：将字符串分割开来，通过char数组，非静态方法
+8、replace：将字符串中包含什么，替换成什么，非静态方法
+9、substring：将字符串截取出来，通过字符串中的字节下标，有两个重载，常用，一个是从下标开始截取，第二个是，从哪里截取到哪里
+10、contains：判断字符串中包含某个字符，放回值bool类型，
+11、indexof：寻找字符串中第一次出现的位置。
+12、Lastindexof：寻找字符串中，某个字符最后一次出现的地方，
+13、stratswith：判断以什么字符开始
+14、endswith：判断以什么字符结尾
+15、string.jion（）:表示用指定的字符，来使字符串数组，合并成一个字符串。
+16、trim:除掉字符串前后的空格，trimend:除掉字符串后面的空格，trimstrat：将字符串前面的空格删除。
+
+
+14、stringBuilder
+stringbuilder sb=new stringbuilder();//创建对象
+sb.addend（）：追加
+sb.tostring();
+sb.insert：插入
+sb.replace：替换
+
+
+15、集合
+listarray，Hashtable,List<>,Dictionary< ，>
+
+
+拆箱装箱，
+装箱：就是将值类型转换称为引用类型
+拆箱：就是将引用类型转换成值类型
+
+
+
+值类型：int,double，decimal,char,struct,enum,const
+引用类型:自定义类，string，接口，object，数组，集合
+
+
+16、静态类和非静态类
+静态类，在被调用其方法之前，就会自动执行其构造函数，达到其初始化。
+
+17、结构和类的区别
+类：字段，属性，方法，构造函数。静态和非静态
+结构：字段，属性，方法，构造函数。静态和非静态
+类和结构都可以是new一个对象，
+不过类new的对象在堆中开辟空间
+结构new的对象在栈中开辟空间
+在类中，在构造函数当中，可以给字段和属性赋值，构造函数可以重载
+在结构中，在构造函数中，只会给字段赋值，在结构的构造函数中，需要给全部的字段赋值，不能选择字段赋值
+
+
+类和结构中的构造函数：
+相同点：不管是类还是结构，都默认拥有一个无参的构造函数
+不同点：在类中写了构造函数之后。就会将默认无参的构造函数替代，
+在结构中写了一个构造函数，其默认无参的构造函数依然存在，
+类中的构造函数可以重载，结构中的构造函数需要对所有字段赋值
+
+如果我们只是单纯的存储数据，这样我们只需要结构
+如果我们想要使用面向对象，就使用类
