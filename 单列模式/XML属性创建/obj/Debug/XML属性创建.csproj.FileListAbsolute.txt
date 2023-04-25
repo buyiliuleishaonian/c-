@@ -1,0 +1,8 @@
+E:\C#\单列模式\XML属性创建\bin\Debug\XML属性创建.exe.config
+E:\C#\单列模式\XML属性创建\bin\Debug\XML属性创建.exe
+E:\C#\单列模式\XML属性创建\bin\Debug\XML属性创建.pdb
+E:\C#\单列模式\XML属性创建\obj\Debug\XML属性创建.csproj.AssemblyReference.cache
+E:\C#\单列模式\XML属性创建\obj\Debug\XML属性创建.csproj.SuggestedBindingRedirects.cache
+E:\C#\单列模式\XML属性创建\obj\Debug\XML属性创建.csproj.CoreCompileInputs.cache
+E:\C#\单列模式\XML属性创建\obj\Debug\XML属性创建.exe
+E:\C#\单列模式\XML属性创建\obj\Debug\XML属性创建.pdb

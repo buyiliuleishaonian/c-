@@ -1,0 +1,8 @@
+E:\C#\单列模式\读取带属性的XML文件\bin\Debug\读取带属性的XML文件.exe.config
+E:\C#\单列模式\读取带属性的XML文件\bin\Debug\读取带属性的XML文件.exe
+E:\C#\单列模式\读取带属性的XML文件\bin\Debug\读取带属性的XML文件.pdb
+E:\C#\单列模式\读取带属性的XML文件\obj\Debug\读取带属性的XML文件.csproj.AssemblyReference.cache
+E:\C#\单列模式\读取带属性的XML文件\obj\Debug\读取带属性的XML文件.csproj.SuggestedBindingRedirects.cache
+E:\C#\单列模式\读取带属性的XML文件\obj\Debug\读取带属性的XML文件.csproj.CoreCompileInputs.cache
+E:\C#\单列模式\读取带属性的XML文件\obj\Debug\读取带属性的XML文件.exe
+E:\C#\单列模式\读取带属性的XML文件\obj\Debug\读取带属性的XML文件.pdb

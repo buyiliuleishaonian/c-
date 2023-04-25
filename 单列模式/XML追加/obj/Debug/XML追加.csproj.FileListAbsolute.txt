@@ -1,0 +1,8 @@
+E:\C#\单列模式\XML追加\obj\Debug\XML追加.csproj.AssemblyReference.cache
+E:\C#\单列模式\XML追加\obj\Debug\XML追加.csproj.SuggestedBindingRedirects.cache
+E:\C#\单列模式\XML追加\obj\Debug\XML追加.csproj.CoreCompileInputs.cache
+E:\C#\单列模式\XML追加\bin\Debug\XML追加.exe.config
+E:\C#\单列模式\XML追加\bin\Debug\XML追加.exe
+E:\C#\单列模式\XML追加\bin\Debug\XML追加.pdb
+E:\C#\单列模式\XML追加\obj\Debug\XML追加.exe
+E:\C#\单列模式\XML追加\obj\Debug\XML追加.pdb

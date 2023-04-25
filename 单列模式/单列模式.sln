@@ -5,6 +5,16 @@ VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "单列模式", "单列模式\单列模式.csproj", "{9FBC09D1-0D75-4BC4-8268-BD2599535F17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML文档", "XML文档\XML文档.csproj", "{58DA062B-EFFF-4021-A4FB-FA91E3592B26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML属性创建", "XML属性创建\XML属性创建.csproj", "{EEDFABE3-8FF7-460A-A10C-23FAC85B8800}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML追加", "XML追加\XML追加.csproj", "{5BC1F39A-EE52-44DA-9517-323F914ABA79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML读取", "XML读取\XML读取.csproj", "{B1D29A04-C6E0-417F-BCDD-F8382122BA67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "读取带属性的XML文件", "读取带属性的XML文件\读取带属性的XML文件.csproj", "{EE0C7D96-E3D4-403D-9734-B53324FBBBC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +25,26 @@ Global
 		{9FBC09D1-0D75-4BC4-8268-BD2599535F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FBC09D1-0D75-4BC4-8268-BD2599535F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FBC09D1-0D75-4BC4-8268-BD2599535F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58DA062B-EFFF-4021-A4FB-FA91E3592B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58DA062B-EFFF-4021-A4FB-FA91E3592B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58DA062B-EFFF-4021-A4FB-FA91E3592B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58DA062B-EFFF-4021-A4FB-FA91E3592B26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEDFABE3-8FF7-460A-A10C-23FAC85B8800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEDFABE3-8FF7-460A-A10C-23FAC85B8800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEDFABE3-8FF7-460A-A10C-23FAC85B8800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEDFABE3-8FF7-460A-A10C-23FAC85B8800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BC1F39A-EE52-44DA-9517-323F914ABA79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC1F39A-EE52-44DA-9517-323F914ABA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BC1F39A-EE52-44DA-9517-323F914ABA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC1F39A-EE52-44DA-9517-323F914ABA79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1D29A04-C6E0-417F-BCDD-F8382122BA67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D29A04-C6E0-417F-BCDD-F8382122BA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D29A04-C6E0-417F-BCDD-F8382122BA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D29A04-C6E0-417F-BCDD-F8382122BA67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE0C7D96-E3D4-403D-9734-B53324FBBBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0C7D96-E3D4-403D-9734-B53324FBBBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0C7D96-E3D4-403D-9734-B53324FBBBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0C7D96-E3D4-403D-9734-B53324FBBBC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

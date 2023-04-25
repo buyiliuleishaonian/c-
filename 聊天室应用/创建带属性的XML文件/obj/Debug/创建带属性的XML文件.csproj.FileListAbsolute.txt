@@ -1,0 +1,8 @@
+E:\C#\聊天室应用\创建带属性的XML文件\bin\Debug\创建带属性的XML文件.exe.config
+E:\C#\聊天室应用\创建带属性的XML文件\bin\Debug\创建带属性的XML文件.exe
+E:\C#\聊天室应用\创建带属性的XML文件\bin\Debug\创建带属性的XML文件.pdb
+E:\C#\聊天室应用\创建带属性的XML文件\obj\Debug\创建带属性的XML文件.csproj.AssemblyReference.cache
+E:\C#\聊天室应用\创建带属性的XML文件\obj\Debug\创建带属性的XML文件.csproj.SuggestedBindingRedirects.cache
+E:\C#\聊天室应用\创建带属性的XML文件\obj\Debug\创建带属性的XML文件.csproj.CoreCompileInputs.cache
+E:\C#\聊天室应用\创建带属性的XML文件\obj\Debug\创建带属性的XML文件.exe
+E:\C#\聊天室应用\创建带属性的XML文件\obj\Debug\创建带属性的XML文件.pdb

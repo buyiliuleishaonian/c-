@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<根节点>
+  <子节点一 name="蒋国文">练习xml1</子节点一>
+  <子节点二 name="文憔悴">练习xml2</子节点二>
+  <nodeOne>哈哈哈</nodeOne>
+  <nodeOne>哈哈哈</nodeOne>
+</根节点>

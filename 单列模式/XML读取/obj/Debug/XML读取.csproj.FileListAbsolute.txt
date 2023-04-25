@@ -1,0 +1,8 @@
+E:\C#\单列模式\XML读取\bin\Debug\XML读取.exe.config
+E:\C#\单列模式\XML读取\bin\Debug\XML读取.exe
+E:\C#\单列模式\XML读取\bin\Debug\XML读取.pdb
+E:\C#\单列模式\XML读取\obj\Debug\XML读取.csproj.AssemblyReference.cache
+E:\C#\单列模式\XML读取\obj\Debug\XML读取.csproj.SuggestedBindingRedirects.cache
+E:\C#\单列模式\XML读取\obj\Debug\XML读取.csproj.CoreCompileInputs.cache
+E:\C#\单列模式\XML读取\obj\Debug\XML读取.exe
+E:\C#\单列模式\XML读取\obj\Debug\XML读取.pdb
