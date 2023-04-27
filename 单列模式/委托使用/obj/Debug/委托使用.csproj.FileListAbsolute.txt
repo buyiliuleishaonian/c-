@@ -1,0 +1,8 @@
+E:\C#\单列模式\委托使用\bin\Debug\委托使用.exe.config
+E:\C#\单列模式\委托使用\bin\Debug\委托使用.exe
+E:\C#\单列模式\委托使用\bin\Debug\委托使用.pdb
+E:\C#\单列模式\委托使用\obj\Debug\委托使用.csproj.AssemblyReference.cache
+E:\C#\单列模式\委托使用\obj\Debug\委托使用.csproj.SuggestedBindingRedirects.cache
+E:\C#\单列模式\委托使用\obj\Debug\委托使用.csproj.CoreCompileInputs.cache
+E:\C#\单列模式\委托使用\obj\Debug\委托使用.exe
+E:\C#\单列模式\委托使用\obj\Debug\委托使用.pdb

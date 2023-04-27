@@ -1,0 +1,8 @@
+E:\C#\单列模式\XML删节点\bin\Debug\XML删节点.exe.config
+E:\C#\单列模式\XML删节点\bin\Debug\XML删节点.exe
+E:\C#\单列模式\XML删节点\bin\Debug\XML删节点.pdb
+E:\C#\单列模式\XML删节点\obj\Debug\XML删节点.csproj.AssemblyReference.cache
+E:\C#\单列模式\XML删节点\obj\Debug\XML删节点.csproj.SuggestedBindingRedirects.cache
+E:\C#\单列模式\XML删节点\obj\Debug\XML删节点.csproj.CoreCompileInputs.cache
+E:\C#\单列模式\XML删节点\obj\Debug\XML删节点.exe
+E:\C#\单列模式\XML删节点\obj\Debug\XML删节点.pdb

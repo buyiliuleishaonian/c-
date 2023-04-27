@@ -1,0 +1,8 @@
+E:\C#\单列模式\lamda表达式\bin\Debug\lamda表达式.exe.config
+E:\C#\单列模式\lamda表达式\bin\Debug\lamda表达式.exe
+E:\C#\单列模式\lamda表达式\bin\Debug\lamda表达式.pdb
+E:\C#\单列模式\lamda表达式\obj\Debug\lamda表达式.csproj.AssemblyReference.cache
+E:\C#\单列模式\lamda表达式\obj\Debug\lamda表达式.csproj.SuggestedBindingRedirects.cache
+E:\C#\单列模式\lamda表达式\obj\Debug\lamda表达式.csproj.CoreCompileInputs.cache
+E:\C#\单列模式\lamda表达式\obj\Debug\lamda表达式.exe
+E:\C#\单列模式\lamda表达式\obj\Debug\lamda表达式.pdb

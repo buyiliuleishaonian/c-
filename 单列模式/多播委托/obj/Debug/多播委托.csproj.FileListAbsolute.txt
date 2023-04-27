@@ -1,0 +1,8 @@
+E:\C#\单列模式\多播委托\bin\Debug\多播委托.exe.config
+E:\C#\单列模式\多播委托\bin\Debug\多播委托.exe
+E:\C#\单列模式\多播委托\bin\Debug\多播委托.pdb
+E:\C#\单列模式\多播委托\obj\Debug\多播委托.csproj.AssemblyReference.cache
+E:\C#\单列模式\多播委托\obj\Debug\多播委托.csproj.SuggestedBindingRedirects.cache
+E:\C#\单列模式\多播委托\obj\Debug\多播委托.csproj.CoreCompileInputs.cache
+E:\C#\单列模式\多播委托\obj\Debug\多播委托.exe
+E:\C#\单列模式\多播委托\obj\Debug\多播委托.pdb

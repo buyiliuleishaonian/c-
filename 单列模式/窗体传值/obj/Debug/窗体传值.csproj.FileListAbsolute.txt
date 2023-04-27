@@ -1,0 +1,12 @@
+E:\C#\单列模式\窗体传值\bin\Debug\窗体传值.exe.config
+E:\C#\单列模式\窗体传值\bin\Debug\窗体传值.exe
+E:\C#\单列模式\窗体传值\bin\Debug\窗体传值.pdb
+E:\C#\单列模式\窗体传值\obj\Debug\窗体传值.csproj.AssemblyReference.cache
+E:\C#\单列模式\窗体传值\obj\Debug\窗体传值.csproj.SuggestedBindingRedirects.cache
+E:\C#\单列模式\窗体传值\obj\Debug\窗体传值.Form1.resources
+E:\C#\单列模式\窗体传值\obj\Debug\窗体传值.Form2.resources
+E:\C#\单列模式\窗体传值\obj\Debug\窗体传值.Properties.Resources.resources
+E:\C#\单列模式\窗体传值\obj\Debug\窗体传值.csproj.GenerateResource.cache
+E:\C#\单列模式\窗体传值\obj\Debug\窗体传值.csproj.CoreCompileInputs.cache
+E:\C#\单列模式\窗体传值\obj\Debug\窗体传值.exe
+E:\C#\单列模式\窗体传值\obj\Debug\窗体传值.pdb
